@@ -30,5 +30,13 @@ You can also add photos from this screen, clicking the camera icon within SpotLo
 
 Once a spot has been recorded using the quick spot, SpotLog will ask you if you would like to record more detailed information for this spot 
 
+<a href="/public/images/getting-started/quick-log-more.png" target="_blank">
+  <img
+    src="/public/images/getting-started/quick-log-more.png"
+    class="doc-img md"
+    alt="SpotLog – Searching screen"
+  />
+</a>
+
 
 

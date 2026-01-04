@@ -2,48 +2,24 @@
 outline: deep
 ---
 
-# Runtime API Examples
+# Import Your Data
 
-This page demonstrates usage of some of the runtime APIs provided by VitePress.
+One of the features of SpotLog is that we allow you to maintain your own data, if you have previously exported your data from SpotLog, here you can re-import it into the application.
 
-The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:
+<a href="/public/images/settings/settings.png" target="_blank">
+  <img
+    src="/public/images/settings/settings.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
-```md
-<script setup>
-import { useData } from 'vitepress'
+To do this you will need to have a SpotLog zip file, you can then use that to re-import your data into SpotLog.
 
-const { theme, page, frontmatter } = useData()
-</script>
-
-## Results
-
-### Theme Data
-<pre>{{ theme }}</pre>
-
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-```
-
-<script setup>
-import { useData } from 'vitepress'
-
-const { site, theme, page, frontmatter } = useData()
-</script>
-
-## Results
-
-### Theme Data
-<pre>{{ theme }}</pre>
-
-### Page Data
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-
-## More
-
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+<a href="/public/images/settings/settings-import.png" target="_blank">
+  <img
+    src="/public/images/settings/settings-import.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
