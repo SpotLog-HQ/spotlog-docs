@@ -1,0 +1,19 @@
+.doc-img {
+  cursor: zoom-in;
+  margin-top: 1rem;
+  transition: transform 0.2s ease;
+}
+
+.doc-img.sm {
+  max-width: 200px;
+}
+.doc-img.md {
+  max-width: 320px;
+}
+.doc-img.lg {
+  max-width: 480px;
+}
+
+.doc-img:hover {
+  transform: scale(1.02);
+}
