@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "SpotLog - Knowledge base",
+  title: "SpotLog",
   description: "Knowledge base for SpotLog",
   head: [
     [
@@ -15,6 +15,7 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
+    logo: '/public/images/icon.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
     ],
@@ -60,7 +61,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/spotlog-hq' }
+      { icon: 'github', link: 'https://github.com/spotlog-hq/spotlog-docs' }
     ]
   }
 })
