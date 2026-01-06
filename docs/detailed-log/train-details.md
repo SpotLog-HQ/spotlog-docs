@@ -6,9 +6,9 @@ outline: deep
 
 This section allows you to record details about the train itself
 
-<a href="/public/images/detailed-log/detailed-log-train-details.png" target="_blank">
+<a href="/images/detailed-log/detailed-log-train-details.png" target="_blank">
   <img
-    src="/public/images/detailed-log/detailed-log-train-details.png"
+    src="/images/detailed-log/detailed-log-train-details.png"
     class="doc-img md"
     alt="SpotLog – Calendar screen"
   />

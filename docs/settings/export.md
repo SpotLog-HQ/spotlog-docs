@@ -6,9 +6,9 @@ One of the features of SpotLog is that we allow you to maintain your own data, y
 
 # Export Your Data
 
-<a href="/public/images/settings/settings.png" target="_blank">
+<a href="/images/settings/settings.png" target="_blank">
   <img
-    src="/public/images/settings/settings.png"
+    src="/images/settings/settings.png"
     class="doc-img md"
     alt="SpotLog – Calendar screen"
   />
@@ -19,9 +19,9 @@ Exporting your data can be done in one of two ways
 1. If you would just like the textual data inputted into SpotLog, you can use the *Export CSV* option.
 2. If you would like the textual data and photos you can export the full SpotLog database.
 
-<a href="/public/images/settings/settings-import-export.png" target="_blank">
+<a href="/images/settings/settings-import-export.png" target="_blank">
   <img
-    src="/public/images/settings/settings-import-export.png"
+    src="/images/settings/settings-import-export.png"
     class="doc-img md"
     alt="SpotLog – Calendar screen"
   />

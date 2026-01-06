@@ -6,9 +6,9 @@ outline: deep
 
 The search screen within SpotLog allows you to easily search your spots.
 
-<a href="/public/images/getting-started/searching.png" target="_blank">
+<a href="/images/getting-started/searching.png" target="_blank">
   <img
-    src="/public/images/getting-started/searching.png"
+    src="/images/getting-started/searching.png"
     class="doc-img md"
     alt="SpotLog – Searching screen"
   />
@@ -24,9 +24,9 @@ The search bar at the top of the screen accepts a variety of inputs that will se
 - Class
 - Notes
 
-<a href="/public/images/getting-started/search-results.png" target="_blank">
+<a href="/images/getting-started/search-results.png" target="_blank">
   <img
-    src="/public/images/getting-started/search-results.png"
+    src="/images/getting-started/search-results.png"
     class="doc-img md"
     alt="SpotLog – Searching screen"
   />
