@@ -4,6 +4,16 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SpotLog - Knowledge base",
   description: "Knowledge base for SpotLog",
+  head: [
+    [
+      'script',
+      {
+        defer: '',
+        src: 'https://stats.codenameowl.com/script.js',
+        'data-website-id': '92d41c2f-f7cc-4221-942e-ba91a0606cc9'
+      }
+    ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
