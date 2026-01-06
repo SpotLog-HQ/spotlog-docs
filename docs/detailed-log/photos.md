@@ -16,4 +16,4 @@ This section allows you to add photos to your spot.
 
 Using the camera button your phone gallery will open where you can select your photos, once you have selected the photos that you wish to add you can save your spot and the photos will automatically be saved.
 
-All your photos can be viewed in the [SpotLog gallery](/docs/getting-started/gallery)
+All your photos can be viewed in the [SpotLog gallery](/getting-started/gallery)
