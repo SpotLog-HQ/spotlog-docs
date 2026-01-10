@@ -25,7 +25,7 @@ features:
     linkText: Find Out More
   - title: Request A Feature  
     details: Got an idea for a new feature?
-    link: https://github.com/SpotLog-HQ/issues/issues
+    link: https://github.com/orgs/SpotLog-HQ/discussions/categories/ideas
     linkText: Request it here
   - title: Report A Bug
     details: Found something that doesn't work?
