@@ -1,5 +1,9 @@
 ---
-outline: deep
+outline: page
+prev:
+  text: Gallery
+  link: /getting-started/gallery
+next: false
 ---
 
 # Searching

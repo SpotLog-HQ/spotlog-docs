@@ -18,18 +18,18 @@ features:
   - title: Detailed Log    
     details: Soothing pastel theme for the high-spirited!
     link: /detailed-log/index
-    linkText: View on GitHub
+    linkText: Find Out More
   - title: My Spots
     details: Soothing pastel theme to use within your projects!
     link: /my-spots/index
-    linkText: View on GitHub
+    linkText: Find Out More
   - title: Request A Feature  
     details: Got an idea for a new feature?
-    link: https://github.com/catppuccin/vscode
+    link: https://github.com/SpotLog-HQ/issues/issues
     linkText: Request it here
   - title: Report A Bug
     details: Found something that doesn't work?
-    link: https://github.com/catppuccin/tmux
+    link: https://github.com/SpotLog-HQ/issues/issues
     linkText: Report It
 ---
 

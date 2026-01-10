@@ -1,5 +1,11 @@
 ---
-outline: deep
+outline: page
+prev:
+  text: Stats
+  link: /getting-started/stats
+next:
+  text: Gallery
+  link: /getting-started/gallery
 ---
 
 # Calendar

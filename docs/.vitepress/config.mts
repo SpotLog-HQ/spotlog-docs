@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,62 +6,101 @@ export default defineConfig({
   description: "Knowledge base for SpotLog",
   head: [
     [
-      'script',
+      "script",
       {
-        defer: '',
-        src: 'https://stats.codenameowl.com/script.js',
-        'data-website-id': '92d41c2f-f7cc-4221-942e-ba91a0606cc9'
-      }
-    ]
+        defer: "",
+        src: "https://stats.codenameowl.com/script.js",
+        "data-website-id": "92d41c2f-f7cc-4221-942e-ba91a0606cc9",
+      },
+    ],
   ],
   themeConfig: {
-    logo: '/images/icon.png',
+    logo: "/images/icon.png",
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-    ],
+    nav: [],
 
     sidebar: [
+      { text: "Home", link: "index" },
       {
-        text: 'Getting Started',
+        text: "Getting Started",
         items: [
-          { text: 'Quick Log', link: 'getting-started/quick-log' },
-          { text: 'Stats', link: 'getting-started/stats' },
-          { text: 'Calendar', link: 'getting-started/calendar' },
-          { text: 'Gallery', link: 'getting-started/gallery' },
-          { text: 'My Spots', link: 'getting-started/my-spots' },
-          { text: 'Searching', link: 'getting-started/searching' }
-        ]
+          { text: "Quick Log", link: "getting-started/quick-log" },
+          { text: "Stats", link: "getting-started/stats" },
+          { text: "Calendar", link: "getting-started/calendar" },
+          { text: "Gallery", link: "getting-started/gallery" },
+          { text: "Searching", link: "getting-started/searching" },
+        ],
       },
       {
-        text: 'Detailed Log',
+        text: "Detailed Log",
         items: [
-          { text: 'Locomotive Details', link: 'detailed-log/locomotive-details' },
-          { text: 'Location Seen', link: 'detailed-log/location-seen' },
-          { text: 'Onboard Information', link: 'detailed-log/onboard-information' },
-          { text: 'Train Details', link: 'detailed-log/train-details' },
-          { text: 'Notes', link: 'detailed-log/notes' },
-          { text: 'Photos', link: 'detailed-log/photos' }
-        ]
+          {
+            text: "Locomotive Details",
+            link: "detailed-log/locomotive-details",
+          },
+          { text: "Location Seen", link: "detailed-log/location-seen" },
+          {
+            text: "Onboard Information",
+            link: "detailed-log/onboard-information",
+          },
+          { text: "Train Details", link: "detailed-log/train-details" },
+          { text: "Notes", link: "detailed-log/notes" },
+          { text: "Photos", link: "detailed-log/photos" },
+        ],
       },
       {
-        text: 'My Spots',
+        text: "My Spots",
         items: [
-          { text: 'Edit A Spot', link: 'my-spots/edit-a-spot' },
-          { text: 'Delete A Spot', link: 'my-spots/delete-a-spot' },
-          { text: 'Filtering', link: 'my-spots/filtering' }          
-        ]
+          { text: "Edit A Spot", link: "my-spots/edit-a-spot" },
+          { text: "Delete A Spot", link: "my-spots/delete-a-spot" },
+          { text: "Filtering", link: "my-spots/filtering" },
+        ],
       },
       {
-        text: 'Settings',
+        text: "Settings",
         items: [
-          { text: 'Import', link: 'settings/import' },
-          { text: 'Export', link: 'settings/export' }
-        ]
-      }
+          {
+            text: "Preferences",
+            items: [
+              { text: "Appearance", link: "settings/preferences/appearance" },
+              { text: "Reminders", link: "settings/preferences/reminders" },
+            ],
+          },
+
+          { text: "Delete All Spots", link: "settings/delete-all-spots" },
+          {
+            text: "Import / Export",
+            items: [
+              {
+                text: "Import",
+                items: [{ text: "Import / Restore", link: "settings/import-export/import" }],
+              },
+              {
+                text: "Export",
+                items: [
+                  { text: "Export As CSV", link: "settings/import-export/export-as-csv" },
+                  { text: "Export full backup", link: "settings/import-export/export-full" },
+                  { text: "Export photos only", link: "settings/import-export/export-photos" },
+                ],
+              },
+            ],
+          },
+          {
+            text: "Reference Data",
+            items: [
+              {
+                text: "Locomotive Details",
+                link: "settings/reference-data/locomotive-details",
+              },
+            ],
+          },
+          { text: "Restart Tutorial", link: "settings/restart-tutorial" },
+        ],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/spotlog-hq/spotlog-docs' }
-    ]
-  }
-})
+      { icon: "github", link: "https://github.com/spotlog-hq/spotlog-docs" },
+    ],
+  },
+});

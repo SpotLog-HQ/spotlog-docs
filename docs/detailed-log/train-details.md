@@ -1,14 +1,20 @@
 ---
-outline: deep
+outline: page
+prev:
+  text: Onboard Information
+  link: /detailed-log/onboard-information
+next:
+  text: Notes
+  link: /detailed-log/notes
 ---
 
 # Detailed Log - Train Details
 
 This section allows you to record details about the train itself
 
-<a href="/images/detailed-log/detailed-log-train-details.png" target="_blank">
+<a href="/images/detailed-log/detailed-log-other.png" target="_blank">
   <img
-    src="/images/detailed-log/detailed-log-train-details.png"
+    src="/images/detailed-log/detailed-log-other.png"
     class="doc-img md"
     alt="SpotLog – Calendar screen"
   />
