@@ -35,4 +35,4 @@ features:
 
 ## Contact Us
 
-If you can't find what you are looking for here [contact Us](mailto:support@spotlog.app) and we will get back to you as soon as possible.
+If you can't find what you are looking for here [contact us](mailto:support@spotlog.app) and we will get back to you as soon as possible.
