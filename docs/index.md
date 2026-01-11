@@ -7,7 +7,7 @@ hero:
   text: "Support Center"
   image:
     src: /images/icon.png
-    alt: Catppuccin logo
+    alt: SpotLog Icon
   actions:
     - theme: brand
       text: Getting Started With Spotlog

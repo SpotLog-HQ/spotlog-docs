@@ -23,6 +23,7 @@ export default defineConfig({
       { text: "Home", link: "index" },
       {
         text: "Getting Started",
+        link: "getting-started/index",
         items: [
           { text: "Quick Log", link: "getting-started/quick-log" },
           { text: "Stats", link: "getting-started/stats" },
@@ -33,6 +34,7 @@ export default defineConfig({
       },
       {
         text: "Detailed Log",
+        link: "detailed-log/index",
         items: [
           {
             text: "Locomotive Details",
@@ -50,6 +52,7 @@ export default defineConfig({
       },
       {
         text: "My Spots",
+        link: "my-spots/index",
         items: [
           { text: "Edit A Spot", link: "my-spots/edit-a-spot" },
           { text: "Delete A Spot", link: "my-spots/delete-a-spot" },
@@ -58,6 +61,7 @@ export default defineConfig({
       },
       {
         text: "Settings",
+        link: "settings/index",
         items: [
           {
             text: "Preferences",
