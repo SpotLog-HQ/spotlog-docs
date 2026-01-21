@@ -10,12 +10,27 @@ next:
 
 # Detailed Log - Location Seen
 
-This part of the screen allows you to log where you saw the locomotive. 
+This section lets you record where you spotted the locomotive. Recording locations helps you track your favourite spotting locations and contributes to the "Hot Spots" section on your [Stats](/getting-started/stats) screen.
 
-<a href="/images/detailed-log/detailed-log-location-seen.png" target="_blank">
-  <img
-    src="/images/detailed-log/detailed-log-location-seen.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+<!-- Screenshot: The Location Seen section showing the location input field -->
+
+## Entering a Location
+
+Simply type the name of the location where you saw the locomotive. This could be:
+
+- A station name (e.g., "Paddington", "York")
+- A level crossing or bridge name
+- A depot or yard name (e.g., "Toton TMD")
+- Any other recognisable location
+
+## Auto-Suggestions
+
+As you type, SpotLog will suggest locations you've used before. This helps you maintain consistent naming for your regular spotting locations.
+
+<!-- Screenshot: The location field with auto-suggestions appearing below -->
+
+## Tips
+
+- Use consistent naming for the same location to ensure accurate statistics
+- You can manage your saved locations in [Settings > Reference Data](/settings/reference-data/locomotive-details)
+- This field is optional - leave it blank if you don't want to record a location

@@ -1,25 +1,65 @@
 ---
 outline: page
-prev: false
-next: false
+prev:
+  text: Export Photos
+  link: /settings/import-export/export-photos
+next:
+  text: Reference Data
+  link: /settings/reference-data/locomotive-details
 ---
 
-# Delete All Spots 
+# Delete All Spots
 
-We have included a destructive feature within the SpotLog application that allows you to 'start fresh', should you ever want to totally wipe the SpotLog database and start spotting from a clean slate this is the option you should use. 
+This option allows you to completely clear your SpotLog data and start fresh. Use this if you want to begin again with an empty app.
 
-**WARNING** - This is non recoverable, if you have not made a [full backup](/settings/import-export/export-full.md) your data will be totally destroyed once this option is selected. 
+::: danger
+This action permanently deletes **all** your spots and photos. It cannot be undone. Make sure to [create a backup](/settings/import-export/export-full) first if you want to keep your data.
+:::
 
-Once you click the option to delete all your spot data, you will be shown a final warning before the action is completed.
+<!-- Screenshot: The Delete All Spots option in the Settings screen -->
 
-<a href="/images/settings/settings-delete-all.png" target="_blank">
-  <img
-    src="/images/settings/settings-delete-all.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+## What Gets Deleted
 
-Once you agree and click `Delete` all data within the application will be removed, including any photos that were both linked and unlinked from spots. 
+When you delete all spots:
 
-The support team will be _unable_ to recover this data, it lives soley on the device so once it is gone, it is gone. 
+- All your spot records
+- All attached photos
+- Your statistics (which are derived from spots)
+
+Reference data (locomotive details, classes, locations, operators) is **not** deleted - only spots and photos.
+
+## How to Delete
+
+1. Go to **Settings > Data Management**
+2. Tap **Delete All Spots** (this option is disabled if you have no spots)
+3. A confirmation dialog appears
+4. Tap **Delete** to confirm
+
+<!-- Screenshot: The confirmation dialog asking "Delete All Spots? This is irreversible" -->
+
+## Confirmation
+
+SpotLog requires explicit confirmation before deleting your data. You'll see a warning dialog explaining that this action cannot be undone.
+
+## After Deletion
+
+Once deletion is complete:
+
+- The My Spots list will be empty
+- Statistics will show no data
+- The Gallery will be empty
+- The Calendar will show no spots
+
+SpotLog will confirm how many spots and photos were deleted.
+
+## Data Recovery
+
+::: warning
+The SpotLog support team **cannot** recover deleted data. All your data is stored locally on your device, so once deleted, it's gone forever.
+:::
+
+**Before deleting**, consider:
+
+- Creating a [Full Backup](/settings/import-export/export-full)
+- Exporting to [CSV](/settings/import-export/export-as-csv) for a spreadsheet record
+- Saving your [photos](/settings/import-export/export-photos)

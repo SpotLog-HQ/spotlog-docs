@@ -1,65 +1,73 @@
 ---
 outline: page
-prev: false
-next: false
+prev:
+  text: Delete All Spots
+  link: /settings/delete-all-spots
+next:
+  text: Locomotive Classes
+  link: /settings/reference-data/locomotive-classes
 ---
 
 # Locomotive Details
 
-When you add a new Spot that contains a locomotive you have never seen before, SpotLog will create an entry in the reference data for that locomotive, this will allow you to add more details for each locomotive that will then appear on the Spot Detail screen when viewing a spot that contains that locomotive.
+Locomotive Details lets you store technical specifications for individual locomotives. This information appears on the [Spot Details](/my-spots/spot-details) screen, enriching your sighting records with data about the locomotive itself.
 
-<a href="/images/settings/reference-data/locomotive-details-1.png" target="_blank">
-  <img
-    src="/images/settings/reference-data/locomotive-details-1.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+<!-- Screenshot: The Locomotive Details list showing several locomotives -->
 
-Each locomotive that exists within the Locomotive Details Reference Data is shown in a list, simillar to the My Spots list. 
+## How It Works
 
-## Editing a Locomotive
+When you log a spot for a locomotive you haven't seen before, SpotLog can prompt you to add details about that locomotive. This creates a reference entry that will be shown whenever you view spots for that locomotive.
 
-Clicking the pencil icon will take you to the edit details screen for that locomotive.
+## Viewing Locomotive Details
 
-<a href="/images/settings/reference-data/locomotive-details-2.png" target="_blank">
-  <img
-    src="/images/settings/reference-data/locomotive-details-2.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+Go to **Settings > Reference Data > Locomotive Details** to see all locomotives with reference data.
 
-Here you can add more information for things like weight and boiler pressure.
+Each entry shows:
+- Locomotive number
+- Locomotive name (if set)
 
-<a href="/images/settings/reference-data/locomotive-details-3.png" target="_blank">
-  <img
-    src="/images/settings/reference-data/locomotive-details-3.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+## Available Technical Details
 
-## Deleting a Locomotive
+For each locomotive, you can record:
 
-It is also possible to delete reference data for a given locomotive, to do that simply click the delete icon for that locomotive entry
+- **Build Year** - When the locomotive was built
+- **Built By** - Manufacturer (e.g., "Crewe Works", "Swindon")
+- **Power Type** - Type of propulsion (Steam, Diesel, Electric)
+- **Wheel Configuration** - Wheel arrangement (e.g., "4-6-2", "Co-Co")
+- **Designed By** - Designer's name or company
+- **Length** - Overall length
+- **Weight** - Operating weight
+- **Pressure** - Boiler pressure (for steam locomotives)
 
-<a href="/images/settings/reference-data/locomotive-details-2.png" target="_blank">
-  <img
-    src="/images/settings/reference-data/locomotive-details-2.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+<!-- Screenshot: The locomotive details edit screen showing all available fields -->
 
-You will be shown a warning to make sure that you actually want to delete that entry.
+## Editing Locomotive Details
 
-<a href="/images/settings/reference-data/locomotive-details-delete-confirm.png" target="_blank">
-  <img
-    src="/images/settings/reference-data/locomotive-details-delete-confirm.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+1. Find the locomotive in the list
+2. Tap the **pencil icon**
+3. Update any fields you wish
+4. Tap **Save**
 
-If you click `Delete` the locomotive reference data will be removed from the application, this will not affect any of your existing Spot data but that locomotive will no longer show with additional details on the Spot Details screen.
+The updated information will appear on all spots for this locomotive.
+
+## Adding a New Locomotive
+
+Locomotives are typically added automatically when you log your first spot for them. However, you can also add locomotive details manually if you want to pre-populate information.
+
+## Deleting Locomotive Details
+
+1. Find the locomotive in the list
+2. Tap the **bin icon**
+3. Confirm the deletion
+
+<!-- Screenshot: The delete confirmation dialog -->
+
+::: info
+Deleting locomotive details only removes the technical specifications. Your spots for that locomotive are not affected - they'll just show without the "Technical Specifications" section.
+:::
+
+## How Details Appear
+
+When viewing a spot for a locomotive with reference data, you'll see a "Technical Specifications" card showing all the recorded details.
+
+<!-- Screenshot: The Spot Details screen showing the Technical Specifications card -->

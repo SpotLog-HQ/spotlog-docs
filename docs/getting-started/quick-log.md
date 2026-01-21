@@ -10,53 +10,55 @@ next:
 
 # Quick Log
 
-The quick log screen is the first screen you are presented with when SpotLog loads, this screen allows you to quickly capture the details that matter as fast as possible.
+The Quick Log screen is the first screen you see when SpotLog opens. It's designed for speed, allowing you to record a sighting in just a few seconds.
 
-<a href="/images/getting-started/quick-log.png" target="_blank">
-  <img
-    src="/images/getting-started/quick-log.png"
-    class="doc-img md"
-    alt="SpotLog – My Spots screen"
-  />
-</a>
+<!-- Screenshot: The Quick Log screen showing the locomotive number input field and the Log button -->
+
+## How to Log a Spot
+
+1. Enter the **locomotive number** or headcode in the text field
+2. Optionally add a **locomotive name** if you know it
+3. Tap the **Log** button to save your spot
+
+That's it! Your spot is now recorded with today's date and time.
 
 ## Adding Photos
 
-You can also add photos from this screen, clicking the camera icon within SpotLog will allow you to pick a photo to attach to the spot. 
+You can attach photos to your spot directly from the Quick Log screen.
 
-<a href="/images/getting-started/quick-log-photos.png" target="_blank">
-  <img
-    src="/images/getting-started/quick-log-photos.png"
-    class="doc-img md"
-    alt="SpotLog – Searching screen"
-  />
-</a>
+1. Tap the **camera icon** next to the input field
+2. Select one or more photos from your device's gallery
+3. The selected photos will be attached to your spot when you tap Log
 
-## Locomotive Details
+<!-- Screenshot: The Quick Log screen showing the camera icon and a photo thumbnail after selection -->
 
-If you add a locomotive to SpotLog that you haven't seen before, the following prompt will be shown
+## New Locomotive Prompt
 
-<a href="/images/getting-started/new-locomotive.png" target="_blank">
-  <img
-    src="/images/getting-started/new-locomotive.png"
-    class="doc-img md"
-    alt="SpotLog – Searching screen"
-  />
-</a>
+When you log a locomotive that you haven't seen before, SpotLog will ask if you'd like to add more details about it.
 
-Clicking yes will take you to the [Locomotive Details]() screen in the reference data settings where you can add more details for this locomotive.
+<!-- Screenshot: The "New Locomotive" prompt dialog asking if you want to add details -->
 
-## Detailed Spot Details
+Tapping **Yes** will take you to the [Locomotive Details](/settings/reference-data/locomotive-details) screen where you can add technical information like build year, weight, and other specifications. This information will then appear whenever you view spots for that locomotive.
 
-Once a spot has been recorded using the quick spot, SpotLog will ask you if you would like to record more detailed information for this spot 
+Tapping **No** will simply save the spot without adding extra locomotive data.
 
-<a href="/images/getting-started/quick-log-more.png" target="_blank">
-  <img
-    src="/images/getting-started/quick-log-more.png"
-    class="doc-img md"
-    alt="SpotLog – Searching screen"
-  />
-</a>
+## Add More Details
 
+After saving a Quick Spot, SpotLog will ask if you'd like to record more detailed information.
 
+<!-- Screenshot: The "Add more details?" prompt that appears after saving a Quick Spot -->
+
+Tapping **Yes** will take you to the [Detailed Log](/detailed-log/index) screen where you can add:
+
+- Location information
+- Train details (carriages, ECS status)
+- Onboard journey information
+- Notes
+- Additional photos
+
+Tapping **No** will keep your spot as a quick entry.
+
+::: tip
+You can disable this prompt in [Settings > Preferences > Reminders](/settings/preferences/reminders) if you prefer not to be asked each time.
+:::
 

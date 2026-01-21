@@ -1,17 +1,63 @@
 ---
 outline: page
-prev: false
-next: false
+prev:
+  text: Export as CSV
+  link: /settings/import-export/export-as-csv
+next:
+  text: Export Photos
+  link: /settings/import-export/export-photos
 ---
 
-# Full Export
+# Full Backup
 
-This option allows you to export your full Spotlog database as a `.zip` file.
+Create a complete backup of your SpotLog data, including all spots, photos, and reference data. This is the best way to protect your data and transfer it to a new device.
 
-<a href="/images/settings/import-export/settings-import-export.png" target="_blank">
-  <img
-    src="/images/settings/import-export/settings-import-export.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+<!-- Screenshot: The Import/Export screen showing the Full Export option -->
+
+## What's Included
+
+A full backup contains everything:
+
+- All your spots with complete details
+- All attached photos
+- Reference data (locomotive details, classes, locations, operators)
+- App settings
+
+The backup is saved as a `.zip` file that can be used to [restore your data](/settings/import-export/import) later.
+
+## How to Export
+
+1. Go to **Settings > Import / Export**
+2. Tap **Full Export**
+3. Wait while SpotLog creates the backup
+4. Choose where to save the `.zip` file
+
+<!-- Screenshot: Progress indicator showing the export in progress -->
+
+## Export Time
+
+The export process may take some time depending on:
+- How many spots you have
+- How many photos are attached
+- The size of your photos
+
+For large collections, the export might take a few minutes. Keep the app open during the process.
+
+## Backup Recommendations
+
+::: tip
+Create regular backups to protect your data! We recommend:
+- Exporting before updating SpotLog to a new version
+- Keeping backups in cloud storage (iCloud, Google Drive, etc.)
+- Creating a backup before deleting any data
+:::
+
+## Using Your Backup
+
+Your backup file can be used to:
+
+- **Restore on the same device** - If something goes wrong
+- **Transfer to a new device** - When upgrading phones
+- **Keep a safe copy** - Store in cloud storage for peace of mind
+
+To restore from a backup, see [Import Your Data](/settings/import-export/import).

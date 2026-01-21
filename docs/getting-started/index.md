@@ -6,12 +6,41 @@ next: false
 
 # Getting Started
 
-This section is designed to get you up and running with the SpotLog application, below are some of the key areas broken down and explained, if you are unable to find what you are looking for drop us an [email](mailto:support@spotlog.app) and we will do our best to help you out. 
+Welcome to SpotLog, the mobile app designed for train enthusiasts who want to log their locomotive sightings quickly and easily.
+
+This section will help you get up and running with SpotLog, covering the main features and how to use them. If you can't find what you're looking for, feel free to drop us an [email](mailto:support@spotlog.app) and we'll do our best to help you out.
+
+## What is SpotLog?
+
+SpotLog is a train spotting companion app that allows you to:
+
+- **Quick Log** sightings with minimal effort
+- **Add detailed information** including photos, location, and train details
+- **View statistics** about your spotting activity
+- **Browse your spots** in calendar and gallery views
+- **Search** through all your recorded sightings
+- **Track achievements** and level up as you spot
+- **Export and backup** your data
+
+All your data is stored locally on your device, so SpotLog works perfectly offline.
+
+## App Navigation
+
+SpotLog uses a bottom navigation bar to help you move between the main sections:
+
+- **Quick Log** - The home screen for fast spot entry
+- **Stats** - View your spotting statistics and trends
+- **Calendar** - See your spots organised by date
+- **Gallery** - Browse all your spot photos
+- **Search** - Find specific spots quickly
+
+<!-- Screenshot: The main SpotLog screen showing the bottom navigation bar with Quick Log, Stats, Calendar, Gallery, and Search tabs -->
 
 ## Contents
 
-- [Quick Log](/getting-started/quick-log.md)
-- [Stats](/getting-started/stats.md)
-- [Calendar](/getting-started/calendar.md)
-- [Gallery](/getting-started/gallery.md)
-- [Searching](/getting-started/searching.md)
+- [Quick Log](/getting-started/quick-log) - How to quickly record a spot
+- [Stats](/getting-started/stats) - Understanding your spotting statistics
+- [Calendar](/getting-started/calendar) - Viewing spots by date
+- [Gallery](/getting-started/gallery) - Browsing your spot photos
+- [Searching](/getting-started/searching) - Finding specific spots
+- [Achievements](/getting-started/achievements) - Track your progress and unlock achievements

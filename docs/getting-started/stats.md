@@ -1,82 +1,62 @@
 ---
 outline: page
+prev:
+  text: Quick Log
+  link: /getting-started/quick-log
+next:
+  text: Calendar
+  link: /getting-started/calendar
 ---
 
 # Statistics
 
-The stats screen is the place you can go if you want to find out some analytics about the spots you have been recording within the app.
+The Stats screen gives you insights into your spotting activity. All statistics are calculated from your recorded spots, so the more you log, the more interesting your stats become.
 
-<a href="/images/getting-started/stats.png" target="_blank">
-  <img
-    src="/images/getting-started/stats.png"
-    class="doc-img md"
-    alt="SpotLog – Stats screen"
-  />
-</a>
+<!-- Screenshot: The Stats screen showing the streak card and top-level statistics cards -->
 
-## Spot Streaks
+::: info
+Statistics are calculated in real-time from your spot data. If you haven't logged any spots yet, this screen will prompt you to start logging.
+:::
 
-You're spot streak is how many consecutive days you have been recording spots within SpotLog.
+## Spot Streak
 
-<a href="/images/getting-started/stats-spot-streak.png" target="_blank">
-  <img
-    src="/images/getting-started/stats-spot-streak.png"
-    class="doc-img md"
-    alt="SpotLog – Stats screen"
-  />
-</a>
+At the top of the Stats screen, you'll see your current spot streak. This shows how many consecutive days you've been recording spots.
 
-## Top Level Counts
+<!-- Screenshot: The streak card showing a streak count with the weekly activity dots -->
 
-<a href="/images/getting-started/stats-top-level.png" target="_blank">
-  <img
-    src="/images/getting-started/stats-top-level.png"
-    class="doc-img md"
-    alt="SpotLog – Stats screen"
-  />
-</a>
+The streak card also displays your activity for the current week, with a checkmark for each day you've logged at least one spot. Keep your streak going by spotting every day!
 
-- Total Spots
-- Unique Locomotives
-- Photos Taken
-- Most Active Year
+## Summary Cards
+
+Below the streak, you'll find four summary cards showing key metrics:
+
+- **Total Spots** - The total number of spots you've recorded
+- **Unique Locomotives** - How many different locomotives you've seen
+- **Photos Taken** - The total number of photos attached to your spots
+- **Most Active Year** - The year in which you recorded the most spots
+
+<!-- Screenshot: The four summary cards showing Total Spots, Unique Locomotives, Photos Taken, and Most Active Year -->
 
 ## Spots Per Year
 
-<a href="/images/getting-started/stats-spots-per-year.png" target="_blank">
-  <img
-    src="/images/getting-started/stats-spots-per-year.png"
-    class="doc-img md"
-    alt="SpotLog – Stats screen"
-  />
-</a>
+This bar chart shows how many spots you've recorded in each year. It's a great way to see how your spotting activity has changed over time.
+
+<!-- Screenshot: The Spots Per Year bar chart showing yearly totals -->
 
 ## This Year By Month
 
-<a href="/images/getting-started/stats-this-year-month.png" target="_blank">
-  <img
-    src="/images/getting-started/stats-this-year-month.png"
-    class="doc-img md"
-    alt="SpotLog – Stats screen"
-  />
-</a>
+This line chart displays your spotting activity for the current year, broken down by month. You can see which months have been your busiest for train spotting.
+
+<!-- Screenshot: The monthly activity line chart for the current year -->
 
 ## Most Spotted Locomotives
 
-<a href="/images/getting-started/stats-most-spotted-loco.png" target="_blank">
-  <img
-    src="/images/getting-started/stats-most-spotted-loco.png"
-    class="doc-img md"
-    alt="SpotLog – Stats screen"
-  />
-</a>
+See which locomotives you've spotted the most. This section shows your top 5 most frequently seen locomotives along with how many times you've recorded each one.
+
+<!-- Screenshot: The Most Spotted Locomotives list showing ranked locomotives with their spot counts -->
 
 ## Hot Spots
 
-<a href="/images/getting-started/stats-hot-spots.png" target="_blank">
-  <img
-    src="/images/getting-started/stats-hot-spots.png"
-    class="doc-img md"
-    alt="SpotLog – Stats screen"
-  />
-</a>
+This section shows your most popular spotting locations, ranked by how many spots you've recorded at each one. It only includes spots where you've entered a location.
+
+<!-- Screenshot: The Hot Spots section showing the top 5 locations with their spot counts -->

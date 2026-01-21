@@ -1,30 +1,40 @@
 ---
 outline: page
-prev: false
+prev:
+  text: Operators
+  link: /settings/reference-data/operators
 next: false
 ---
 
 # Restart Tutorial
 
-When SpotLog first loads up after installation a series of tutorial prompts will be shown throughout the application, these can be easily dismissed but there might be a case where they were dismissed but still required. 
+When you first install SpotLog, a series of helpful tutorial prompts guide you through the app's features. If you dismissed these too quickly or want a refresher, you can restart the tutorial.
 
-Within the settings SpotLog has an option that allows for these tutorials to be restarted. 
+<!-- Screenshot: The Tutorial section in Settings showing the Restart Tutorial option -->
 
-<a href="/images/settings/settings.png" target="_blank">
-  <img
-    src="/images/settings/settings.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+## What the Tutorial Covers
 
-Clicking the restart tutorial button will show a small prompt, clicking `Restart` will show the tutorials when the application next starts. 
+The tutorial includes guidance on:
 
-<a href="/images/settings/settings-restart-turorial-confirm.png" target="_blank">
-  <img
-    src="/images/settings/settings-restart-turorial-confirm.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+- Creating your first spot with Quick Log
+- Understanding the app navigation
+- Key features and where to find them
 
+## How to Restart
+
+1. Go to **Settings**
+2. Find the **Tutorial** section
+3. Tap **Restart Tutorial**
+4. Confirm by tapping **Restart** in the dialog
+
+<!-- Screenshot: The confirmation dialog asking if you want to restart the tutorial -->
+
+## When Tutorials Appear
+
+After restarting, tutorial prompts will appear the next time you open SpotLog. They'll guide you through the main screens and features just like when you first installed the app.
+
+## Tips
+
+- Use this if you're helping a friend or family member learn SpotLog
+- Handy if you haven't used the app for a while and need a refresher
+- Tutorial prompts can be dismissed at any time if you already understand the feature

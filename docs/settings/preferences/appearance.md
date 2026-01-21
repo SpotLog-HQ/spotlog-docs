@@ -1,21 +1,43 @@
 ---
 outline: page
-prev: false
-next: false
+prev:
+  text: Settings
+  link: /settings/index
+next:
+  text: Notifications
+  link: /settings/preferences/notifications
 ---
 
 # Appearance
 
-Here you can change the theme of the application, clicking the theme will cycle through the three available states
+Customise how SpotLog looks by choosing your preferred theme.
 
-- Follow System
-- Light
-- Dark
+<!-- Screenshot: The Appearance section in Settings showing the theme selector -->
 
-<a href="/images/settings/settings-preferences.png" target="_blank">
-  <img
-    src="/images/settings/settings-preferences.png"
-    class="doc-img md"
-    alt="SpotLog – Calendar screen"
-  />
-</a>
+## Changing the Theme
+
+Tap on the **Theme** option to cycle through the available options:
+
+### Follow System
+
+SpotLog will match your device's theme setting. When your phone is in dark mode, SpotLog will be dark. When it's in light mode, SpotLog will be light.
+
+This is the default setting and is recommended for most users.
+
+### Light Mode
+
+Forces SpotLog to always use the light theme, regardless of your device settings. The interface will have a bright background with dark text.
+
+<!-- Screenshot: SpotLog in light mode showing the Quick Log screen -->
+
+### Dark Mode
+
+Forces SpotLog to always use the dark theme, regardless of your device settings. The interface will have a dark background with light text.
+
+Dark mode is easier on the eyes in low-light conditions and may help conserve battery on devices with OLED screens.
+
+<!-- Screenshot: SpotLog in dark mode showing the Quick Log screen -->
+
+## When Changes Take Effect
+
+Theme changes take effect immediately. You don't need to restart the app.

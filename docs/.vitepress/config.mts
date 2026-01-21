@@ -32,6 +32,7 @@ export default defineConfig({
           { text: "Calendar", link: "getting-started/calendar" },
           { text: "Gallery", link: "getting-started/gallery" },
           { text: "Searching", link: "getting-started/searching" },
+          { text: "Achievements", link: "getting-started/achievements" },
         ],
       },
       {
@@ -56,8 +57,9 @@ export default defineConfig({
         text: "My Spots",
         link: "my-spots/index",
         items: [
-          { text: "Edit A Spot", link: "my-spots/edit-a-spot" },
-          { text: "Delete A Spot", link: "my-spots/delete-a-spot" },
+          { text: "Spot Details", link: "my-spots/spot-details" },
+          { text: "Edit a Spot", link: "my-spots/edit-a-spot" },
+          { text: "Delete a Spot", link: "my-spots/delete-a-spot" },
           { text: "Filtering", link: "my-spots/filtering" },
         ],
       },
@@ -69,37 +71,30 @@ export default defineConfig({
             text: "Preferences",
             items: [
               { text: "Appearance", link: "settings/preferences/appearance" },
+              { text: "Notifications", link: "settings/preferences/notifications" },
               { text: "Reminders", link: "settings/preferences/reminders" },
             ],
           },
-
-          { text: "Delete All Spots", link: "settings/delete-all-spots" },
+          { text: "Widgets", link: "settings/widgets" },
           {
             text: "Import / Export",
             items: [
-              {
-                text: "Import",
-                items: [{ text: "Import / Restore", link: "settings/import-export/import" }],
-              },
-              {
-                text: "Export",
-                items: [
-                  { text: "Export As CSV", link: "settings/import-export/export-as-csv" },
-                  { text: "Export full backup", link: "settings/import-export/export-full" },
-                  { text: "Export photos only", link: "settings/import-export/export-photos" },
-                ],
-              },
+              { text: "Import / Restore", link: "settings/import-export/import" },
+              { text: "Export as CSV", link: "settings/import-export/export-as-csv" },
+              { text: "Full Backup", link: "settings/import-export/export-full" },
+              { text: "Export Photos", link: "settings/import-export/export-photos" },
             ],
           },
           {
             text: "Reference Data",
             items: [
-              {
-                text: "Locomotive Details",
-                link: "settings/reference-data/locomotive-details",
-              },
+              { text: "Locomotive Details", link: "settings/reference-data/locomotive-details" },
+              { text: "Locomotive Classes", link: "settings/reference-data/locomotive-classes" },
+              { text: "Locations", link: "settings/reference-data/locations" },
+              { text: "Operators", link: "settings/reference-data/operators" },
             ],
           },
+          { text: "Delete All Spots", link: "settings/delete-all-spots" },
           { text: "Restart Tutorial", link: "settings/restart-tutorial" },
         ],
       },
