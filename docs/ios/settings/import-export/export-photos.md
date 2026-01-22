@@ -19,7 +19,7 @@ Export all your spot photos as a single `.zip` file. This is useful if you want 
 The photo export contains all images you've attached to your spots. The photos are exported in their original quality.
 
 ::: info
-This export includes **only photos**, not spot data. If you want a complete backup including spot details, use [Full Export](/settings/import-export/export-full) instead.
+This export includes **only photos**, not spot data. If you want a complete backup including spot details, use [Full Export](/ios/settings/import-export/export-full) instead.
 :::
 
 ## How to Export

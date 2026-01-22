@@ -23,7 +23,7 @@ A full backup contains everything:
 - Reference data (locomotive details, classes, locations, operators)
 - App settings
 
-The backup is saved as a `.zip` file that can be used to [restore your data](/settings/import-export/import) later.
+The backup is saved as a `.zip` file that can be used to [restore your data](/ios/settings/import-export/import) later.
 
 ## How to Export
 
@@ -60,4 +60,4 @@ Your backup file can be used to:
 - **Transfer to a new device** - When upgrading phones
 - **Keep a safe copy** - Store in cloud storage for peace of mind
 
-To restore from a backup, see [Import Your Data](/settings/import-export/import).
+To restore from a backup, see [Import Your Data](/ios/settings/import-export/import).

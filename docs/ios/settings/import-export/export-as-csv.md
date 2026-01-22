@@ -27,7 +27,7 @@ The CSV export includes all text data from your spots:
 - Onboard information (departure/arrival stations)
 
 ::: info
-Photos are **not included** in CSV exports. Use [Full Export](/settings/import-export/export-full) or [Export Photos](/settings/import-export/export-photos) if you need your photos.
+Photos are **not included** in CSV exports. Use [Full Export](/ios/settings/import-export/export-full) or [Export Photos](/ios/settings/import-export/export-photos) if you need your photos.
 :::
 
 ## How to Export

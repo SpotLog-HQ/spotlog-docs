@@ -10,7 +10,7 @@ next:
 
 # Locomotive Details
 
-Locomotive Details lets you store technical specifications for individual locomotives. This information appears on the [Spot Details](/my-spots/spot-details) screen, enriching your sighting records with data about the locomotive itself.
+Locomotive Details lets you store technical specifications for individual locomotives. This information appears on the [Spot Details](/ios/my-spots/spot-details) screen, enriching your sighting records with data about the locomotive itself.
 
 <!-- Screenshot: The Locomotive Details list showing several locomotives -->
 

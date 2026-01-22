@@ -16,7 +16,7 @@ If you've previously exported your data from SpotLog or are moving to a new devi
 
 ## What You Can Import
 
-SpotLog can import data from a **full backup** file (`.zip`) that was previously created using the [Full Export](/settings/import-export/export-full) feature.
+SpotLog can import data from a **full backup** file (`.zip`) that was previously created using the [Full Export](/ios/settings/import-export/export-full) feature.
 
 The import includes:
 - All your spots
@@ -46,7 +46,7 @@ Importing data will **replace** your current SpotLog data. Make sure to export a
 
 To transfer your SpotLog data to a new device:
 
-1. On your **old device**: Use [Full Export](/settings/import-export/export-full) to create a backup
+1. On your **old device**: Use [Full Export](/ios/settings/import-export/export-full) to create a backup
 2. Transfer the `.zip` file to your new device (via cloud storage, email, or cable)
 3. On your **new device**: Install SpotLog and use Import to restore
 

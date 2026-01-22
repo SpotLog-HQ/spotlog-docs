@@ -45,5 +45,5 @@ Both reminders are **enabled by default** to help new users discover SpotLog's f
 ## Tips
 
 - Try using SpotLog with reminders on for a while to see if they're helpful
-- You can always add details or photos later by [editing a spot](/my-spots/edit-a-spot)
-- These settings don't affect [notification reminders](/settings/preferences/notifications)
+- You can always add details or photos later by [editing a spot](/ios/my-spots/edit-a-spot)
+- These settings don't affect [notification reminders](/ios/settings/preferences/notifications)

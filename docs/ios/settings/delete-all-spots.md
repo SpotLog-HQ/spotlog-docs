@@ -13,7 +13,7 @@ next:
 This option allows you to completely clear your SpotLog data and start fresh. Use this if you want to begin again with an empty app.
 
 ::: danger
-This action permanently deletes **all** your spots and photos. It cannot be undone. Make sure to [create a backup](/settings/import-export/export-full) first if you want to keep your data.
+This action permanently deletes **all** your spots and photos. It cannot be undone. Make sure to [create a backup](/ios/settings/import-export/export-full) first if you want to keep your data.
 :::
 
 <!-- Screenshot: The Delete All Spots option in the Settings screen -->
@@ -60,6 +60,6 @@ The SpotLog support team **cannot** recover deleted data. All your data is store
 
 **Before deleting**, consider:
 
-- Creating a [Full Backup](/settings/import-export/export-full)
-- Exporting to [CSV](/settings/import-export/export-as-csv) for a spreadsheet record
-- Saving your [photos](/settings/import-export/export-photos)
+- Creating a [Full Backup](/ios/settings/import-export/export-full)
+- Exporting to [CSV](/ios/settings/import-export/export-as-csv) for a spreadsheet record
+- Saving your [photos](/ios/settings/import-export/export-photos)
