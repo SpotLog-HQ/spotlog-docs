@@ -173,6 +173,10 @@
   --vp-code-link-hover-color: #0969da;
   --vp-code-bg: #f6f8fa !important;
   --vp-c-text-dark-1: #24292f;
+
+  /* DocSearch button (light) */
+  --docsearch-search-button-background: #f6f8fa;
+  --docsearch-search-button-focus-background: #eef2f7;
 }
 
 /**
@@ -231,6 +235,17 @@
   @apply border !important ;
 }
 
+.DocSearch-Button {
+  background-color: var(--docsearch-search-button-background) !important;
+  color: var(--vp-c-text-dark-1, #24292f) !important;
+  border-color: var(--docsearch-primary-color, #225732) !important;
+}
+
+.DocSearch-Button:hover,
+.DocSearch-Button:focus {
+  background-color: var(--docsearch-search-button-focus-background) !important;
+}
+
 /**
  * This is to adjust he spacing at the top of Teams page
  * -------------------------------------------------------------------------- */
@@ -249,6 +264,19 @@
   --vp-c-text-1: #F2F2F2;
   --vp-c-text-2: #9A989D;
   --vp-c-text-3: #9A989D;
+  --docsearch-search-button-background: #1f2937; /* dark mode background */
+  --docsearch-search-button-focus-background: #111827;
+
+  .DocSearch-Button {
+    background-color: var(--docsearch-search-button-background) !important;
+    color: #e5e7eb !important;
+    border-color: var(--vp-c-bg-soft) !important;
+  }
+
+  .DocSearch-Button:hover,
+  .DocSearch-Button:focus {
+    background-color: var(--docsearch-search-button-focus-background) !important;
+  }
   
   /* Lighter code background in dark mode */
   --vp-code-bg: #161b22 !important;  /* Darker background in dark mode */
@@ -502,24 +530,26 @@
 }
 
 .VPNavBarSearch {
-  width: 100% !important;
+  width: auto !important; /* prevent nav search from pushing into the platform switcher */
+  flex-grow: 0 !important;
+  padding-left: 0 !important;
+}
 
-  & #local-search {
-    width: 100% !important;
-  }
+.VPNavBarSearch #local-search,
+.VPNavBarSearch .DocSearch-Button {
+  width: auto !important;
+}
 
-  & .DocSearch-Button {
-    width: 100% !important;
-    justify-content: space-between !important;
-  }
+.VPNavBarSearch .DocSearch-Button {
+  justify-content: space-between !important;
+}
 
-  & .DocSearch-Button-Container {
-    flex: 1 !important;
-  }
+.VPNavBarSearch .DocSearch-Button-Container {
+  flex: 1 !important;
+}
 
-  & .DocSearch-Button-Keys {
-    margin-left: auto !important;
-  }
+.VPNavBarSearch .DocSearch-Button-Keys {
+  margin-left: auto !important;
 }
 
 /* Sidebar search specific styling */

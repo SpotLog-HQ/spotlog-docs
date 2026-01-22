@@ -11,28 +11,28 @@ hero:
   actions:
     - theme: brand
       text: Getting Started
-      link: /getting-started/index
+      link: /ios/getting-started/index
     - theme: alt
       text: Browse Documentation
-      link: /getting-started/quick-log
+      link: /ios/getting-started/quick-log
 
 
 features:
   - title: Getting Started
     details: Learn the basics of SpotLog, including Quick Log, Stats, Calendar, Gallery, and Search.
-    link: /getting-started/index
+    link: /ios/getting-started/index
     linkText: Get Started
   - title: Detailed Log
     details: Record comprehensive information about your spots including photos, locations, and train details.
-    link: /detailed-log/index
+    link: /ios/detailed-log/index
     linkText: Learn More
   - title: My Spots
     details: View, edit, filter, and manage all your recorded sightings in one place.
-    link: /my-spots/index
+    link: /ios/my-spots/index
     linkText: Explore
   - title: Settings
     details: Customise SpotLog with themes, notifications, data backup, and reference data management.
-    link: /settings/index
+    link: /ios/settings/index
     linkText: Configure
   - title: Request A Feature
     details: Got an idea for a new feature? We'd love to hear from you.
@@ -50,10 +50,10 @@ SpotLog is the train spotting companion app designed for UK rail enthusiasts. Wh
 
 ### Quick Links
 
-- [Quick Log](/getting-started/quick-log) - Log a spot in seconds
-- [Stats](/getting-started/stats) - See your spotting statistics
-- [Import/Export](/settings/import-export/import) - Backup and restore your data
-- [Widgets](/settings/widgets) - Add SpotLog to your home screen
+- [Quick Log](/ios/getting-started/quick-log) - Log a spot in seconds
+- [Stats](/ios/getting-started/stats) - See your spotting statistics
+- [Import/Export](/ios/settings/import-export/import) - Backup and restore your data
+- [Widgets](/ios/settings/widgets) - Add SpotLog to your home screen
 
 ## Need Help?
 
