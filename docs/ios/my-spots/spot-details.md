@@ -12,7 +12,13 @@ next:
 
 The Spot Details screen shows all the information recorded for a single spot. It's where you can view photos, locomotive details, and any other data you've logged.
 
-<!-- Screenshot: The Spot Details screen showing a locomotive with hero image and details -->
+<a href="/images/ios/loco-details-non-edit.png" target="_blank">
+  <img
+    src="/images/ios/loco-details-non-edit.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Accessing Spot Details
 
@@ -37,7 +43,13 @@ Below the hero image, you'll see:
 - **Locomotive Name** - If recorded, shown below the number
 - **Chips** - Quick-reference tags showing class, location, and date
 
-<!-- Screenshot: The header area showing locomotive number, name, and info chips -->
+<a href="/images/ios/loco-details-non-edit.png" target="_blank">
+  <img
+    src="/images/ios/loco-details-non-edit.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ### Technical Specifications
 
@@ -76,7 +88,13 @@ If you marked the spot as "onboard", this card shows your journey with departure
 
 When you've recorded a carriage count, a visual representation of the train formation appears, showing coach icons for each carriage.
 
-<!-- Screenshot: The Formation card showing a visual train consist -->
+<a href="/images/ios/loco-details-formation.png" target="_blank">
+  <img
+    src="/images/ios/loco-details-formation.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ### Notes
 
@@ -102,4 +120,10 @@ Tap the **bin icon** in the app bar to delete this spot. You'll be asked to conf
 Deleting a spot also removes all attached photos. This action cannot be undone.
 :::
 
-<!-- Screenshot: The delete confirmation dialog -->
+<a href="/images/ios/loco-details-delete.png" target="_blank">
+  <img
+    src="/images/ios/loco-details-delete.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>

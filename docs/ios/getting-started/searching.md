@@ -12,7 +12,13 @@ next:
 
 The Search screen lets you quickly find specific spots from your collection. Whether you're looking for a particular locomotive or trying to remember where you saw something, search makes it easy.
 
-<!-- Screenshot: The Search screen showing the search input field -->
+<a href="/images/ios/search.png" target="_blank">
+  <img
+    src="/images/ios/search.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## How to Search
 
@@ -30,7 +36,13 @@ SpotLog searches across multiple fields in your spots:
 - **Class** - Search by locomotive class (e.g., "66", "A4")
 - **Notes** - Search through your spot notes
 
-<!-- Screenshot: Search results showing matching spots with a search term entered -->
+<a href="/images/ios/search-results.png" target="_blank">
+  <img
+    src="/images/ios/search-results.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Viewing Search Results
 

@@ -12,7 +12,13 @@ next:
 
 This section lets you record details about your journey if you were onboard the train. Whether it's a heritage railway trip or a charter excursion, you can log where you joined and left the train.
 
-<!-- Screenshot: The Onboard Information section showing the Onboard toggle and station fields -->
+<a href="/images/ios/onboard.png" target="_blank">
+  <img
+    src="/images/ios/onboard.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Marking a Spot as Onboard
 
@@ -30,7 +36,13 @@ The station where you boarded the train. This could be:
 
 The station where you left the train or the final destination of your journey.
 
-<!-- Screenshot: The Onboard section expanded with departure and arrival stations filled in -->
+<a href="/images/ios/onboard-populated.png" target="_blank">
+  <img
+    src="/images/ios/onboard-populated.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## When to Use This
 

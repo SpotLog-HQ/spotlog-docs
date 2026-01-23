@@ -2,10 +2,10 @@
 outline: page
 prev:
   text: Delete All Spots
-  link: /ios/settings/delete-all-spots
+  link: /settings/delete-all-spots
 next:
   text: Locomotive Classes
-  link: /ios/settings/reference-data/locomotive-classes
+  link: /settings/reference-data/locomotive-classes
 ---
 
 # Locomotive Details

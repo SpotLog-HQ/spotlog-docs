@@ -10,13 +10,25 @@ next: false
 
 Filters help you find specific spots from your collection. Whether you're looking for all spots at a particular location or want to see everything from a specific date range, filters make it easy.
 
-<!-- Screenshot: The My Spots screen showing the filter icon in the app bar -->
+<a href="/images/android/my-spots.png" target="_blank">
+  <img
+    src="/images/android/my-spots.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Opening the Filter Panel
 
 Tap the **filter icon** at the top of the My Spots screen to open the filter panel.
 
-<!-- Screenshot: The filter panel showing all available filter options -->
+<a href="/images/android/my-spots-filter.png" target="_blank">
+  <img
+    src="/images/android/my-spots-filter.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Available Filters
 
@@ -52,7 +64,13 @@ Once you've entered your filter criteria:
 1. Tap **Apply Filters** to see matching spots
 2. The My Spots list updates to show only spots matching your criteria
 
-<!-- Screenshot: The My Spots list showing filtered results with a filter indicator -->
+<a href="/images/android/my-spots-filtered.png" target="_blank">
+  <img
+    src="/images/android/my-spots-filtered.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Combining Filters
 

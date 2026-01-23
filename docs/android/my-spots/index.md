@@ -8,7 +8,13 @@ next: false
 
 My Spots is your complete collection of recorded sightings. Here you can browse, manage, and view details for all the spots you've logged.
 
-<!-- Screenshot: The My Spots screen showing a list of spots sorted by date -->
+<a href="/images/android/my-spots.png" target="_blank">
+  <img
+    src="/images/android/my-spots.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Spot List
 
@@ -39,13 +45,17 @@ SpotLog uses swipe gestures to reveal action buttons:
 3. Tap the action you want to perform
 4. Tap elsewhere or swipe back to close the actions
 
-<!-- Screenshot: A spot row swiped left showing the Edit and Delete action buttons -->
+<a href="/images/android/delete-spot-action.png" target="_blank">
+  <img
+    src="/images/android/delete-spot-action.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ::: tip
 When scrolling the list, any open swipe actions will automatically close.
 :::
-
-<!-- Screenshot: The My Spots list showing a spot with swipe actions revealed -->
 
 ## Contents
 

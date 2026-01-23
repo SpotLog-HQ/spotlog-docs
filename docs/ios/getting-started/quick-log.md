@@ -12,7 +12,13 @@ next:
 
 The Quick Log screen is the first screen you see when SpotLog opens. It's designed for speed, allowing you to record a sighting in just a few seconds.
 
-<!-- Screenshot: The Quick Log screen showing the locomotive number input field and the Log button -->
+<a href="/images/ios/quick-log.png" target="_blank">
+  <img
+    src="/images/ios/quick-log.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## How to Log a Spot
 
@@ -30,13 +36,25 @@ You can attach photos to your spot directly from the Quick Log screen.
 2. Select one or more photos from your device's gallery
 3. The selected photos will be attached to your spot when you tap Log
 
-<!-- Screenshot: The Quick Log screen showing the camera icon and a photo thumbnail after selection -->
+<a href="/images/ios/quick-log-photo.png" target="_blank">
+  <img
+    src="/images/ios/quick-log-photo.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## New Locomotive Prompt
 
 When you log a locomotive that you haven't seen before, SpotLog will ask if you'd like to add more details about it.
 
-<!-- Screenshot: The "New Locomotive" prompt dialog asking if you want to add details -->
+<a href="/images/ios/quick-log-new-loco.png" target="_blank">
+  <img
+    src="/images/ios/quick-log-new-loco.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 Tapping **Yes** will take you to the [Locomotive Details](/ios/settings/reference-data/locomotive-details) screen where you can add technical information like build year, weight, and other specifications. This information will then appear whenever you view spots for that locomotive.
 
@@ -46,7 +64,14 @@ Tapping **No** will simply save the spot without adding extra locomotive data.
 
 After saving a Quick Spot, SpotLog will ask if you'd like to record more detailed information.
 
-<!-- Screenshot: The "Add more details?" prompt that appears after saving a Quick Spot -->
+<a href="/images/ios/quick-log-more-details.png" target="_blank">
+  <img
+    src="/images/ios/quick-log-more-details.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
+
 
 Tapping **Yes** will take you to the [Detailed Log](/ios/detailed-log/index) screen where you can add:
 

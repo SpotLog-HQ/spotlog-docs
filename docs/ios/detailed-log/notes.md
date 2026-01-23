@@ -12,7 +12,13 @@ next:
 
 This section allows you to add free-form notes to your spot. Notes are perfect for recording anything that doesn't fit into the other fields.
 
-<!-- Screenshot: The Notes section showing the text input area -->
+<a href="/images/ios/notes.png" target="_blank">
+  <img
+    src="/images/ios/notes.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## What to Include in Notes
 
@@ -33,4 +39,10 @@ Your notes are included in the [Search](/ios/getting-started/searching) function
 
 When you view a spot's details, notes are displayed in their own card at the bottom of the screen, making them easy to read and reference.
 
-<!-- Screenshot: The Spot Details screen showing the Notes card with text content -->
+<a href="/images/ios/notes-displayed.png" target="_blank">
+  <img
+    src="/images/ios/notes-displayed.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>

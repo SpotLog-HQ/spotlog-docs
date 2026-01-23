@@ -10,7 +10,13 @@ next: false
 
 SpotLog includes an Achievements and Levels system to help you track your spotting progress. As you log spots, add photos, and record detailed information, you'll earn XP and unlock achievements.
 
-<!-- Screenshot: The Achievements screen showing the level summary and achievement cards -->
+<a href="/images/ios/awards.png" target="_blank">
+  <img
+    src="/images/ios/awards.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Accessing Achievements
 
@@ -20,7 +26,13 @@ Tap the **trophy icon** in the app bar (between Search and Settings) to open the
 
 At the top of the Achievements screen, you'll see your current level and XP progress. As you earn XP from logging spots and unlocking achievements, you'll progress through levels.
 
-<!-- Screenshot: The Level Summary card showing current level and XP progress bar -->
+<a href="/images/ios/awards.png" target="_blank">
+  <img
+    src="/images/ios/awards.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ### How Levels Work
 
@@ -48,7 +60,13 @@ Achievements are goals you can unlock through your spotting activity. Each achie
 - A progress bar showing how close you are to unlocking it
 - Whether it's locked or unlocked
 
-<!-- Screenshot: Achievement cards showing both locked and unlocked achievements with progress bars -->
+<a href="/images/ios/awards.png" target="_blank">
+  <img
+    src="/images/ios/awards.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ### Available Achievements
 

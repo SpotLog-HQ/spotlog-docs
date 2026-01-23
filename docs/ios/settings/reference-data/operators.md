@@ -2,10 +2,10 @@
 outline: page
 prev:
   text: Locations
-  link: /ios/settings/reference-data/locations
+  link: /settings/reference-data/locations
 next:
   text: Restart Tutorial
-  link: /ios/settings/restart-tutorial
+  link: /settings/restart-tutorial
 ---
 
 # Operators

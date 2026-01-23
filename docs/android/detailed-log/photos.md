@@ -10,7 +10,13 @@ next: false
 
 This section allows you to add photos to your spot. Photos help you remember your sightings and create a visual record of your spotting adventures.
 
-<!-- Screenshot: The Photos section showing the camera button and any attached photo thumbnails -->
+<a href="/images/android/photos-added.png" target="_blank">
+  <img
+    src="/images/android/photos-added.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Adding Photos
 
@@ -19,13 +25,25 @@ This section allows you to add photos to your spot. Photos help you remember you
 3. Select one or more photos to attach
 4. The selected photos will appear as thumbnails
 
-<!-- Screenshot: The device gallery showing photo selection -->
+<a href="/images/android/photo-device-picker.png" target="_blank">
+  <img
+    src="/images/android/photo-device-picker.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Multiple Photos
 
 You can add multiple photos to a single spot. This is useful when you've taken several shots of the same locomotive or want to capture different angles.
 
-<!-- Screenshot: The Photos section showing multiple photo thumbnails attached to a spot -->
+<a href="/images/android/multiple-photos.png" target="_blank">
+  <img
+    src="/images/android/multiple-photos.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Viewing Attached Photos
 
@@ -39,7 +57,13 @@ When you tap **Save**, your photos are automatically stored within SpotLog. They
 
 If you save a detailed spot without adding any photos, SpotLog will ask if you meant to add photos. This is a helpful reminder in case you forgot.
 
-<!-- Screenshot: The photo reminder dialog asking "Did you want to add photos?" -->
+<a href="/images/android/photo-reminder.png" target="_blank">
+  <img
+    src="/images/android/photo-reminder.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ::: tip
 You can disable this reminder in [Settings > Preferences > Reminders](/android/settings/preferences/reminders).

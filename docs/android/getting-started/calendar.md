@@ -12,7 +12,13 @@ next:
 
 The Calendar screen displays your spots organised by date in a monthly calendar view. It's a useful way to remember when and where you went spotting.
 
-<!-- Screenshot: The Calendar screen showing a month view with spot counts on various dates -->
+<a href="/images/android/calendar.png" target="_blank">
+  <img
+    src="/images/android/calendar.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Navigating the Calendar
 
@@ -24,7 +30,13 @@ The Calendar screen displays your spots organised by date in a monthly calendar 
 
 Tap on any date to see the spots you recorded on that day. The spots appear in a list below the calendar.
 
-<!-- Screenshot: The Calendar screen with a date selected showing the list of spots for that day -->
+<a href="/images/android/calendar-selected.png" target="_blank">
+  <img
+    src="/images/android/calendar-selected.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 From the spot list, you can:
 

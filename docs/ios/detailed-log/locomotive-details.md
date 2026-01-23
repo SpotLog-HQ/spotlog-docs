@@ -12,7 +12,13 @@ next:
 
 This section allows you to record details about the locomotive itself.
 
-<!-- Screenshot: The Locomotive Details section expanded showing all available fields -->
+<a href="/images/ios/loco-details.png" target="_blank">
+  <img
+    src="/images/ios/loco-details.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Available Fields
 
@@ -52,7 +58,13 @@ Record the visual condition of the locomotive:
 
 This option only appears when Locomotive Type is set to **Steam**. Toggle this on if the locomotive was running tender-first (bunker first for tank engines).
 
-<!-- Screenshot: The Tender First toggle shown when Steam is selected as locomotive type -->
+<a href="/images/ios/tender-first.png" target="_blank">
+  <img
+    src="/images/ios/tender-first.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Tips
 

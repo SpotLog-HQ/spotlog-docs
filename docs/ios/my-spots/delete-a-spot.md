@@ -12,8 +12,6 @@ next:
 
 You can delete any spot you no longer want to keep. SpotLog always asks for confirmation before deleting to prevent accidental data loss.
 
-<!-- Screenshot: The My Spots list with the delete icon highlighted on a spot -->
-
 ## How to Delete
 
 There are two ways to delete a spot:
@@ -25,7 +23,13 @@ There are two ways to delete a spot:
 3. Tap the **Delete** button
 4. Confirm the deletion when prompted
 
-<!-- Screenshot: A spot row swiped left showing the Edit and Delete action buttons -->
+<a href="/images/ios/delete-spot-action.png" target="_blank">
+  <img
+    src="/images/ios/delete-spot-action.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ### From Spot Details
 
@@ -37,7 +41,13 @@ There are two ways to delete a spot:
 
 When you tap delete, SpotLog shows a confirmation dialog:
 
-<!-- Screenshot: The delete confirmation dialog asking "Delete this spot?" -->
+<a href="/images/ios/delete-spot.png" target="_blank">
+  <img
+    src="/images/ios/delete-spot.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 - Tap **Delete** to permanently remove the spot
 - Tap **Cancel** to keep the spot

@@ -34,7 +34,13 @@ SpotLog uses a bottom navigation bar to help you move between the main sections:
 - **Gallery** - Browse all your spot photos
 - **Search** - Find specific spots quickly
 
-<!-- Screenshot: The main SpotLog screen showing the bottom navigation bar with Quick Log, Stats, Calendar, Gallery, and Search tabs -->
+<a href="/images/ios/home.png" target="_blank">
+  <img
+    src="/images/ios/home.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Contents
 

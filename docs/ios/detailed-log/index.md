@@ -8,7 +8,13 @@ next: false
 
 The Detailed Log screen lets you record comprehensive information about a spot. While the [Quick Log](/ios/getting-started/quick-log) is perfect for fast entries, the Detailed Log is for when you want to capture everything about a sighting.
 
-<!-- Screenshot: The Detailed Log screen showing the various input sections -->
+<a href="/images/ios/loco-details.png" target="_blank">
+  <img
+    src="/images/ios/loco-details.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## When to Use Detailed Log
 

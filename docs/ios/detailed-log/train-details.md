@@ -12,7 +12,13 @@ next:
 
 This section lets you record details about the train formation and working. It's useful for capturing the full picture of what you saw.
 
-<!-- Screenshot: The Train Details section showing carriage count and toggle options -->
+<a href="/images/ios/train-details.png" target="_blank">
+  <img
+    src="/images/ios/train-details.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Available Fields
 
@@ -42,7 +48,13 @@ Toggle this on if the locomotive was double-headed or accompanied by another loc
 - Charter trains
 - Locomotive positioning moves
 
-<!-- Screenshot: The Train Details section with ECS and Accompanied toggles shown -->
+<a href="/images/ios/train-details.png" target="_blank">
+  <img
+    src="/images/ios/train-details.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## How It Appears
 

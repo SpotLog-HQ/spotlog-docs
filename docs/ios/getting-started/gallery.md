@@ -12,7 +12,13 @@ next:
 
 The Gallery screen displays all the photos you've attached to your spots in one place. It's a visual way to browse through your train spotting memories.
 
-<!-- Screenshot: The Gallery screen showing a grid of spot photos -->
+<a href="/images/ios/gallery.png" target="_blank">
+  <img
+    src="/images/ios/gallery.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Browsing Photos
 
@@ -28,7 +34,13 @@ When you tap a photo, it opens in the full-screen photo viewer. From here you ca
 - **Pinch to zoom** in and out on the photo
 - **Tap the back button** to return to the gallery
 
-<!-- Screenshot: The full-screen photo viewer showing a locomotive photo with zoom controls -->
+<a href="/images/ios/gallery-full.png" target="_blank">
+  <img
+    src="/images/ios/gallery-full.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Photo Actions
 
@@ -37,7 +49,13 @@ Long-press on any photo in the gallery to see available actions:
 - **View parent spot** - Opens the Spot Details screen for the spot this photo is attached to
 - **Delete this photo** - Removes the photo from the spot (you'll be asked to confirm)
 
-<!-- Screenshot: The photo actions sheet showing "View parent spot" and "Delete this photo" options -->
+<a href="/images/ios/gallery-actions.png" target="_blank">
+  <img
+    src="/images/ios/gallery-actions.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ::: warning
 Deleting a photo removes it from SpotLog permanently. This action cannot be undone.

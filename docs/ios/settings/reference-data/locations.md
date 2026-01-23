@@ -2,10 +2,10 @@
 outline: page
 prev:
   text: Locomotive Classes
-  link: /ios/settings/reference-data/locomotive-classes
+  link: /settings/reference-data/locomotive-classes
 next:
   text: Operators
-  link: /ios/settings/reference-data/operators
+  link: /settings/reference-data/operators
 ---
 
 # Locations

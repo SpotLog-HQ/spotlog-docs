@@ -12,8 +12,6 @@ next:
 
 You can edit any spot to update information, add missing details, or correct mistakes. SpotLog allows unlimited edits to your spots.
 
-<!-- Screenshot: The My Spots list with the edit icon highlighted on a spot -->
-
 ## How to Edit
 
 There are two ways to edit a spot:
@@ -25,7 +23,13 @@ There are two ways to edit a spot:
 3. Tap the **Edit** button
 4. The edit screen opens with all existing data pre-filled
 
-<!-- Screenshot: A spot row swiped left showing the Edit and Delete action buttons -->
+<a href="/images/android/delete-spot-action.png" target="_blank">
+  <img
+    src="/images/android/delete-spot-action.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ### From Spot Details
 
@@ -42,7 +46,13 @@ The edit screen is the same as the [Detailed Log](/android/detailed-log/index) s
 - Change the date
 - Add new information you didn't record originally
 
-<!-- Screenshot: The edit screen showing pre-filled locomotive details -->
+<a href="/images/android/loco-details-edit.png" target="_blank">
+  <img
+    src="/images/android/loco-details-edit.png"
+    class="doc-img md"
+    alt="SpotLog – Calendar screen"
+  />
+</a>
 
 ## Saving Changes
 
