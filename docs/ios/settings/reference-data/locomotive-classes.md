@@ -10,7 +10,7 @@ next:
 
 # Locomotive Classes
 
-Manage the locomotive class designations used in SpotLog. Classes are suggested when you're logging a spot, making it faster to enter consistent data.
+Manage the locomotive class designations used in Headcode. Classes are suggested when you're logging a spot, making it faster to enter consistent data.
 
 <!-- Screenshot: The Locomotive Classes list showing various classes -->
 
@@ -26,7 +26,7 @@ Using consistent class names helps with searching and statistics.
 
 ## How Classes Are Added
 
-Classes are added to SpotLog in two ways:
+Classes are added to Headcode in two ways:
 
 1. **Automatically** - When you enter a new class while logging a spot, it's saved for future use
 2. **Manually** - You can add classes directly in Reference Data

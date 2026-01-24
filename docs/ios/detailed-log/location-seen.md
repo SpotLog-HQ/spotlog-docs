@@ -16,7 +16,7 @@ This section lets you record where you spotted the locomotive. Recording locatio
   <img
     src="/images/ios/detailed-log-location-seen.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -31,13 +31,13 @@ Simply type the name of the location where you saw the locomotive. This could be
 
 ## Auto-Suggestions
 
-As you type, SpotLog will suggest locations you've used before. This helps you maintain consistent naming for your regular spotting locations.
+As you type, Headcode will suggest locations you've used before. This helps you maintain consistent naming for your regular spotting locations.
 
 <a href="/images/ios/detailed-log-location-seen-suggestions.png" target="_blank">
   <img
     src="/images/ios/detailed-log-location-seen.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

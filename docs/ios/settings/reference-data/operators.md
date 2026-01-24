@@ -26,7 +26,7 @@ Operators are the companies or organisations that run trains, such as:
 
 ## How Operators Are Added
 
-Operators are added to SpotLog in two ways:
+Operators are added to Headcode in two ways:
 
 1. **Automatically** - When you enter a new operator while logging a spot, it's saved for future use
 2. **Manually** - You can add operators directly in Reference Data

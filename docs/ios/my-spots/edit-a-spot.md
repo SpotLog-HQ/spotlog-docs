@@ -10,7 +10,7 @@ next:
 
 # Edit a Spot
 
-You can edit any spot to update information, add missing details, or correct mistakes. SpotLog allows unlimited edits to your spots.
+You can edit any spot to update information, add missing details, or correct mistakes. Headcode allows unlimited edits to your spots.
 
 ## How to Edit
 
@@ -27,7 +27,7 @@ There are two ways to edit a spot:
   <img
     src="/images/ios/delete-spot-action.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -50,7 +50,7 @@ The edit screen is the same as the [Detailed Log](/ios/detailed-log/index) scree
   <img
     src="/images/ios/loco-details-edit.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -59,7 +59,7 @@ The edit screen is the same as the [Detailed Log](/ios/detailed-log/index) scree
 When you've made your changes, tap **Save** to update the spot. Your original spot is overwritten with the new information.
 
 ::: info
-SpotLog does not keep a history of changes. Once you save, the previous version is replaced.
+Headcode does not keep a history of changes. Once you save, the previous version is replaced.
 :::
 
 ## What You Can Edit

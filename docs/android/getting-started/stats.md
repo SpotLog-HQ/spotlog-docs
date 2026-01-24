@@ -16,7 +16,7 @@ The Stats screen gives you insights into your spotting activity. All statistics 
   <img
     src="/images/android/streak.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -32,7 +32,7 @@ At the top of the Stats screen, you'll see your current spot streak. This shows 
   <img
     src="/images/android/streak.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -51,7 +51,7 @@ Below the streak, you'll find four summary cards showing key metrics:
   <img
     src="/images/android/stat-summary.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -63,7 +63,7 @@ This bar chart shows how many spots you've recorded in each year. It's a great w
   <img
     src="/images/android/stats-per-year.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -75,7 +75,7 @@ This line chart displays your spotting activity for the current year, broken dow
   <img
     src="/images/android/stats-per-month.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -87,7 +87,7 @@ See which locomotives you've spotted the most. This section shows your top 5 mos
   <img
     src="/images/android/stats-bottom.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -99,6 +99,6 @@ This section shows your most popular spotting locations, ranked by how many spot
   <img
     src="/images/android/stats-bottom.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>

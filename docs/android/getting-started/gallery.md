@@ -16,7 +16,7 @@ The Gallery screen displays all the photos you've attached to your spots in one 
   <img
     src="/images/android/gallery.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -38,7 +38,7 @@ When you tap a photo, it opens in the full-screen photo viewer. From here you ca
   <img
     src="/images/android/gallery-full.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -53,12 +53,12 @@ Long-press on any photo in the gallery to see available actions:
   <img
     src="/images/android/gallery-actions.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
 ::: warning
-Deleting a photo removes it from SpotLog permanently. This action cannot be undone.
+Deleting a photo removes it from Headcode permanently. This action cannot be undone.
 :::
 
 ## Empty Gallery

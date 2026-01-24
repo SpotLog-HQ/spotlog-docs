@@ -24,7 +24,7 @@ Using consistent location names helps you:
 
 ## How Locations Are Added
 
-Locations are added to SpotLog in two ways:
+Locations are added to Headcode in two ways:
 
 1. **Automatically** - When you enter a new location while logging a spot, it's saved for future use
 2. **Manually** - You can add locations directly in Reference Data

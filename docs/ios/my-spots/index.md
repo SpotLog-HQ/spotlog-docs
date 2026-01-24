@@ -12,7 +12,7 @@ My Spots is your complete collection of recorded sightings. Here you can browse,
   <img
     src="/images/ios/my-spots.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -38,7 +38,7 @@ From the My Spots list, you can:
 
 ## Swipe Actions
 
-SpotLog uses swipe gestures to reveal action buttons:
+Headcode uses swipe gestures to reveal action buttons:
 
 1. **Swipe left** on any spot to reveal the action buttons
 2. You'll see **Edit** and **Delete** buttons
@@ -49,7 +49,7 @@ SpotLog uses swipe gestures to reveal action buttons:
   <img
     src="/images/ios/delete-spot-action.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

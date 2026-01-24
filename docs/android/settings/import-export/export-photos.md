@@ -10,7 +10,7 @@ next:
 
 # Export Photos
 
-Export all your spot photos as a single `.zip` file. This is useful if you want to back up just your photos or use them outside of SpotLog.
+Export all your spot photos as a single `.zip` file. This is useful if you want to back up just your photos or use them outside of Headcode.
 
 <!-- Screenshot: The Import/Export screen showing the Export Photos option -->
 
@@ -26,7 +26,7 @@ This export includes **only photos**, not spot data. If you want a complete back
 
 1. Go to **Settings > Import / Export**
 2. Tap **Export Photos Only**
-3. Wait while SpotLog gathers your photos
+3. Wait while Headcode gathers your photos
 4. Choose where to save the `.zip` file
 
 ## Export Time
@@ -37,7 +37,7 @@ The export may take a while if you have many photos. The more photos and the lar
 
 Once exported, you can:
 
-- Keep as a photo backup separate from SpotLog
+- Keep as a photo backup separate from Headcode
 - Share photos with friends and fellow enthusiasts
 - Use in other applications
 - Print or create albums

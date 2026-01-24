@@ -10,7 +10,7 @@ next:
 
 # Delete a Spot
 
-You can delete any spot you no longer want to keep. SpotLog always asks for confirmation before deleting to prevent accidental data loss.
+You can delete any spot you no longer want to keep. Headcode always asks for confirmation before deleting to prevent accidental data loss.
 
 ## How to Delete
 
@@ -27,7 +27,7 @@ There are two ways to delete a spot:
   <img
     src="/images/android/delete-spot-action.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -39,13 +39,13 @@ There are two ways to delete a spot:
 
 ## Confirmation
 
-When you tap delete, SpotLog shows a confirmation dialog:
+When you tap delete, Headcode shows a confirmation dialog:
 
 <a href="/images/android/delete-spot.png" target="_blank">
   <img
     src="/images/android/delete-spot.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -56,7 +56,7 @@ When you tap delete, SpotLog shows a confirmation dialog:
 
 When you delete a spot:
 
-- The spot record is removed from SpotLog
+- The spot record is removed from Headcode
 - All photos attached to that spot are deleted
 - The spot no longer appears in your statistics
 

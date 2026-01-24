@@ -16,7 +16,7 @@ This section lets you record details about your journey if you were onboard the 
   <img
     src="/images/android/onboard.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -40,7 +40,7 @@ The station where you left the train or the final destination of your journey.
   <img
     src="/images/android/onboard-populated.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

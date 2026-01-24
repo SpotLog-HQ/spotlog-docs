@@ -10,7 +10,7 @@ next:
 
 # Home Screen Widgets
 
-SpotLog offers home screen widgets that let you quickly access app features or see your spotting information at a glance, without opening the full app.
+Headcode offers home screen widgets that let you quickly access app features or see your spotting information at a glance, without opening the full app.
 
 <!-- Screenshot: The Widgets information screen showing the widget carousel -->
 
@@ -33,7 +33,7 @@ A simple shortcut widget that opens the Quick Log screen directly. Perfect for w
 
 <!-- Screenshot: The Quick Log widget preview -->
 
-### SpotLog Stats
+### Headcode Stats
 
 Displays key statistics from your spotting activity:
 
@@ -49,22 +49,22 @@ Displays key statistics from your spotting activity:
 
 1. Long-press on your home screen until apps start to jiggle
 2. Tap the **+** button in the top corner
-3. Search for "SpotLog"
+3. Search for "Headcode"
 4. Choose your preferred widget size
 5. Tap **Add Widget**
 6. Position the widget where you want it
 
-<!-- Screenshot: iOS widget gallery showing SpotLog widgets -->
+<!-- Screenshot: iOS widget gallery showing Headcode widgets -->
 
 ### Android
 
 1. Long-press on an empty area of your home screen
 2. Select **Widgets** from the menu
-3. Find "SpotLog" in the widget list
+3. Find "Headcode" in the widget list
 4. Long-press the widget you want
 5. Drag it to your home screen
 
-<!-- Screenshot: Android widget picker showing SpotLog widgets -->
+<!-- Screenshot: Android widget picker showing Headcode widgets -->
 
 ## Widget Sizes
 

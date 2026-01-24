@@ -14,7 +14,7 @@ This section allows you to add photos to your spot. Photos help you remember you
   <img
     src="/images/android/photos-added.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -29,7 +29,7 @@ This section allows you to add photos to your spot. Photos help you remember you
   <img
     src="/images/android/photo-device-picker.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -41,7 +41,7 @@ You can add multiple photos to a single spot. This is useful when you've taken s
   <img
     src="/images/android/multiple-photos.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -51,17 +51,17 @@ Once photos are attached, they appear as thumbnails in the Photos section. Tap a
 
 ## Saving Your Spot
 
-When you tap **Save**, your photos are automatically stored within SpotLog. They're copied to the app's storage, so you can safely delete them from your device's gallery if needed.
+When you tap **Save**, your photos are automatically stored within Headcode. They're copied to the app's storage, so you can safely delete them from your device's gallery if needed.
 
 ## Photo Reminder
 
-If you save a detailed spot without adding any photos, SpotLog will ask if you meant to add photos. This is a helpful reminder in case you forgot.
+If you save a detailed spot without adding any photos, Headcode will ask if you meant to add photos. This is a helpful reminder in case you forgot.
 
 <a href="/images/android/photo-reminder.png" target="_blank">
   <img
     src="/images/android/photo-reminder.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

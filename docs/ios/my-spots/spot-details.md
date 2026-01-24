@@ -16,7 +16,7 @@ The Spot Details screen shows all the information recorded for a single spot. It
   <img
     src="/images/ios/loco-details-non-edit.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -47,7 +47,7 @@ Below the hero image, you'll see:
   <img
     src="/images/ios/loco-details-non-edit.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -92,7 +92,7 @@ When you've recorded a carriage count, a visual representation of the train form
   <img
     src="/images/ios/loco-details-formation.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -124,6 +124,6 @@ Deleting a spot also removes all attached photos. This action cannot be undone.
   <img
     src="/images/ios/loco-details-delete.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>

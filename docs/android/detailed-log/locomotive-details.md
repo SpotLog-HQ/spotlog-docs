@@ -16,7 +16,7 @@ This section allows you to record details about the locomotive itself.
   <img
     src="/images/android/loco-details.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -32,7 +32,7 @@ The named identity of the locomotive, if it has one (e.g., "Flying Scotsman", "M
 
 ### Class
 
-The locomotive class designation (e.g., "66", "A4", "57"). When you start typing, SpotLog will suggest classes you've used before.
+The locomotive class designation (e.g., "66", "A4", "57"). When you start typing, Headcode will suggest classes you've used before.
 
 ### Operator
 
@@ -62,12 +62,12 @@ This option only appears when Locomotive Type is set to **Steam**. Toggle this o
   <img
     src="/images/android/tender-first.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
 ## Tips
 
-- SpotLog remembers your previous entries and will suggest them as you type
+- Headcode remembers your previous entries and will suggest them as you type
 - You can manage locomotive classes and operators in [Reference Data](/android/settings/reference-data/locomotive-details)
 - All fields are optional - fill in as much or as little as you like

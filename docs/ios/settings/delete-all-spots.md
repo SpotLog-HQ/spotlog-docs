@@ -10,7 +10,7 @@ next:
 
 # Delete All Spots
 
-This option allows you to completely clear your SpotLog data and start fresh. Use this if you want to begin again with an empty app.
+This option allows you to completely clear your Headcode data and start fresh. Use this if you want to begin again with an empty app.
 
 ::: danger
 This action permanently deletes **all** your spots and photos. It cannot be undone. Make sure to [create a backup](/ios/settings/import-export/export-full) first if you want to keep your data.
@@ -39,7 +39,7 @@ Reference data (locomotive details, classes, locations, operators) is **not** de
 
 ## Confirmation
 
-SpotLog requires explicit confirmation before deleting your data. You'll see a warning dialog explaining that this action cannot be undone.
+Headcode requires explicit confirmation before deleting your data. You'll see a warning dialog explaining that this action cannot be undone.
 
 ## After Deletion
 
@@ -50,12 +50,12 @@ Once deletion is complete:
 - The Gallery will be empty
 - The Calendar will show no spots
 
-SpotLog will confirm how many spots and photos were deleted.
+Headcode will confirm how many spots and photos were deleted.
 
 ## Data Recovery
 
 ::: warning
-The SpotLog support team **cannot** recover deleted data. All your data is stored locally on your device, so once deleted, it's gone forever.
+The Headcode support team **cannot** recover deleted data. All your data is stored locally on your device, so once deleted, it's gone forever.
 :::
 
 **Before deleting**, consider:

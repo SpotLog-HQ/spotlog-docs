@@ -14,7 +14,7 @@ Filters help you find specific spots from your collection. Whether you're lookin
   <img
     src="/images/ios/my-spots.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -26,7 +26,7 @@ Tap the **filter icon** at the top of the My Spots screen to open the filter pan
   <img
     src="/images/ios/my-spots-filter.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -68,7 +68,7 @@ Once you've entered your filter criteria:
   <img
     src="/images/ios/my-spots-filtered.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

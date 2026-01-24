@@ -12,7 +12,7 @@ The Detailed Log screen lets you record comprehensive information about a spot. 
   <img
     src="/images/ios/loco-details.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

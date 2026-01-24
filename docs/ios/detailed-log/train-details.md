@@ -16,7 +16,7 @@ This section lets you record details about the train formation and working. It's
   <img
     src="/images/ios/train-details.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -52,7 +52,7 @@ Toggle this on if the locomotive was double-headed or accompanied by another loc
   <img
     src="/images/ios/train-details.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

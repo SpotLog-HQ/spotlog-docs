@@ -6,13 +6,13 @@ next: false
 
 # Getting Started
 
-Welcome to SpotLog, the mobile app designed for train enthusiasts who want to log their locomotive sightings quickly and easily.
+Welcome to Headcode, the mobile app designed for train enthusiasts who want to log their locomotive sightings quickly and easily.
 
-This section will help you get up and running with SpotLog, covering the main features and how to use them. If you can't find what you're looking for, feel free to drop us an [email](mailto:support@spotlog.app) and we'll do our best to help you out.
+This section will help you get up and running with Headcode, covering the main features and how to use them. If you can't find what you're looking for, feel free to drop us an [email](mailto:support@Headcode.app) and we'll do our best to help you out.
 
-## What is SpotLog?
+## What is Headcode?
 
-SpotLog is a train spotting companion app that allows you to:
+Headcode is a train spotting companion app that allows you to:
 
 - **Quick Log** sightings with minimal effort
 - **Add detailed information** including photos, location, and train details
@@ -22,11 +22,11 @@ SpotLog is a train spotting companion app that allows you to:
 - **Track achievements** and level up as you spot
 - **Export and backup** your data
 
-All your data is stored locally on your device, so SpotLog works perfectly offline.
+All your data is stored locally on your device, so Headcode works perfectly offline.
 
 ## App Navigation
 
-SpotLog uses a bottom navigation bar to help you move between the main sections:
+Headcode uses a bottom navigation bar to help you move between the main sections:
 
 - **Quick Log** - The home screen for fast spot entry
 - **Stats** - View your spotting statistics and trends
@@ -34,7 +34,7 @@ SpotLog uses a bottom navigation bar to help you move between the main sections:
 - **Gallery** - Browse all your spot photos
 - **Search** - Find specific spots quickly
 
-<!-- Screenshot: The main SpotLog screen showing the bottom navigation bar with Quick Log, Stats, Calendar, Gallery, and Search tabs -->
+<!-- Screenshot: The main Headcode screen showing the bottom navigation bar with Quick Log, Stats, Calendar, Gallery, and Search tabs -->
 
 ## Contents
 

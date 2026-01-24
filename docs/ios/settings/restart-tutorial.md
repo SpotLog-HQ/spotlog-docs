@@ -8,7 +8,7 @@ next: false
 
 # Restart Tutorial
 
-When you first install SpotLog, a series of helpful tutorial prompts guide you through the app's features. If you dismissed these too quickly or want a refresher, you can restart the tutorial.
+When you first install Headcode, a series of helpful tutorial prompts guide you through the app's features. If you dismissed these too quickly or want a refresher, you can restart the tutorial.
 
 <!-- Screenshot: The Tutorial section in Settings showing the Restart Tutorial option -->
 
@@ -31,10 +31,10 @@ The tutorial includes guidance on:
 
 ## When Tutorials Appear
 
-After restarting, tutorial prompts will appear the next time you open SpotLog. They'll guide you through the main screens and features just like when you first installed the app.
+After restarting, tutorial prompts will appear the next time you open Headcode. They'll guide you through the main screens and features just like when you first installed the app.
 
 ## Tips
 
-- Use this if you're helping a friend or family member learn SpotLog
+- Use this if you're helping a friend or family member learn Headcode
 - Handy if you haven't used the app for a while and need a refresher
 - Tutorial prompts can be dismissed at any time if you already understand the feature

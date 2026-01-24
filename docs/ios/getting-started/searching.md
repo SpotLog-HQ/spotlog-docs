@@ -16,7 +16,7 @@ The Search screen lets you quickly find specific spots from your collection. Whe
   <img
     src="/images/ios/search.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -28,7 +28,7 @@ The Search screen lets you quickly find specific spots from your collection. Whe
 
 ## What You Can Search For
 
-SpotLog searches across multiple fields in your spots:
+Headcode searches across multiple fields in your spots:
 
 - **Locomotive Number** - Search by the loco number or headcode (e.g., "66018", "1Z10")
 - **Locomotive Name** - Search by name (e.g., "Flying Scotsman", "Mallard")
@@ -40,7 +40,7 @@ SpotLog searches across multiple fields in your spots:
   <img
     src="/images/ios/search-results.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

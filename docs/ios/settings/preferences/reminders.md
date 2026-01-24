@@ -10,7 +10,7 @@ next:
 
 # Reminders
 
-SpotLog includes helpful prompts to encourage you to capture more detail. If you prefer a more streamlined experience, you can disable these reminders here.
+Headcode includes helpful prompts to encourage you to capture more detail. If you prefer a more streamlined experience, you can disable these reminders here.
 
 <!-- Screenshot: The Reminders section in Settings showing the toggle options -->
 
@@ -18,7 +18,7 @@ SpotLog includes helpful prompts to encourage you to capture more detail. If you
 
 ### Photo Reminder
 
-When enabled, SpotLog will prompt you if you save a detailed spot without attaching any photos. This is a helpful reminder in case you meant to add a photo but forgot.
+When enabled, Headcode will prompt you if you save a detailed spot without attaching any photos. This is a helpful reminder in case you meant to add a photo but forgot.
 
 <!-- Screenshot: The photo reminder dialog that appears when saving without photos -->
 
@@ -29,7 +29,7 @@ When enabled, SpotLog will prompt you if you save a detailed spot without attach
 
 ### Quick Spot Detail Prompt
 
-When enabled, after saving a Quick Spot, SpotLog asks if you'd like to add more details. Tapping "Yes" takes you to the Detailed Log screen.
+When enabled, after saving a Quick Spot, Headcode asks if you'd like to add more details. Tapping "Yes" takes you to the Detailed Log screen.
 
 <!-- Screenshot: The "Add more details?" prompt after saving a Quick Spot -->
 
@@ -40,10 +40,10 @@ When enabled, after saving a Quick Spot, SpotLog asks if you'd like to add more 
 
 ## Default Settings
 
-Both reminders are **enabled by default** to help new users discover SpotLog's full capabilities. Once you're comfortable with the app, you can adjust these to match your preferred workflow.
+Both reminders are **enabled by default** to help new users discover Headcode's full capabilities. Once you're comfortable with the app, you can adjust these to match your preferred workflow.
 
 ## Tips
 
-- Try using SpotLog with reminders on for a while to see if they're helpful
+- Try using Headcode with reminders on for a while to see if they're helpful
 - You can always add details or photos later by [editing a spot](/ios/my-spots/edit-a-spot)
 - These settings don't affect [notification reminders](/ios/settings/preferences/notifications)

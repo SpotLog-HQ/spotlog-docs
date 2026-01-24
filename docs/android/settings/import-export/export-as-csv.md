@@ -60,5 +60,5 @@ The file uses standard CSV format with:
 ## Tips
 
 - CSV export is quick even with many spots (no photos to process)
-- Great for creating personal statistics beyond what SpotLog shows
+- Great for creating personal statistics beyond what Headcode shows
 - Can be used to create custom reports of your spotting activity

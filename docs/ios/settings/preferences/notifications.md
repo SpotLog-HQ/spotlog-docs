@@ -10,7 +10,7 @@ next:
 
 # Notifications
 
-SpotLog can send you reminder notifications to help you keep up with your spotting. This is especially useful if you want to maintain a streak or simply don't want to forget to log your sightings.
+Headcode can send you reminder notifications to help you keep up with your spotting. This is especially useful if you want to maintain a streak or simply don't want to forget to log your sightings.
 
 <!-- Screenshot: The Notifications section in Settings showing the enable toggle and options -->
 
@@ -18,7 +18,7 @@ SpotLog can send you reminder notifications to help you keep up with your spotti
 
 Toggle **Enable notifications** to turn spot reminders on or off.
 
-When you first enable notifications, SpotLog will ask for permission to send notifications. You'll need to allow this in your device's settings for reminders to work.
+When you first enable notifications, Headcode will ask for permission to send notifications. You'll need to allow this in your device's settings for reminders to work.
 
 ## Inactivity Reminder
 
@@ -34,7 +34,7 @@ Choose from:
 - 7 days (1 week)
 - 14 days (2 weeks)
 
-For example, if you set this to 3 days and don't log any spots for 3 days, SpotLog will send you a friendly reminder.
+For example, if you set this to 3 days and don't log any spots for 3 days, Headcode will send you a friendly reminder.
 
 ## Notification Window
 
@@ -51,11 +51,11 @@ Notifications will only be sent within this window. For example, setting 09:00 t
 
 ## How It Works
 
-SpotLog looks at when you last logged a spot. If the time since your last spot exceeds your inactivity threshold and it's within your notification window, you'll receive a gentle reminder to go spotting.
+Headcode looks at when you last logged a spot. If the time since your last spot exceeds your inactivity threshold and it's within your notification window, you'll receive a gentle reminder to go spotting.
 
 ## Tips
 
 - Set a shorter threshold (1-2 days) if you're trying to build a streak
 - Use a longer threshold (7-14 days) if you only spot occasionally
 - Adjust the notification window to match your active hours
-- If notifications aren't working, check your device's notification settings for SpotLog
+- If notifications aren't working, check your device's notification settings for Headcode

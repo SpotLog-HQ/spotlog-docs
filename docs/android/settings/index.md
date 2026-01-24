@@ -6,7 +6,7 @@ next: false
 
 # Settings
 
-The Settings section is where you manage everything about SpotLog - from appearance and notifications to data backup and reference information.
+The Settings section is where you manage everything about Headcode - from appearance and notifications to data backup and reference information.
 
 <!-- Screenshot: The main Settings screen showing all available sections -->
 
@@ -43,7 +43,7 @@ Settings is organised into several sections:
 - [Reminders](preferences/reminders) - In-app prompts and reminders
 
 ### Widgets
-- [Home Screen Widgets](widgets) - Add SpotLog widgets to your home screen
+- [Home Screen Widgets](widgets) - Add Headcode widgets to your home screen
 
 ### Data Management
 - [Import](import-export/import) - Restore from a backup

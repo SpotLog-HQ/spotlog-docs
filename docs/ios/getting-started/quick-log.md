@@ -10,13 +10,13 @@ next:
 
 # Quick Log
 
-The Quick Log screen is the first screen you see when SpotLog opens. It's designed for speed, allowing you to record a sighting in just a few seconds.
+The Quick Log screen is the first screen you see when Headcode opens. It's designed for speed, allowing you to record a sighting in just a few seconds.
 
 <a href="/images/ios/quick-log.png" target="_blank">
   <img
     src="/images/ios/quick-log.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -40,19 +40,19 @@ You can attach photos to your spot directly from the Quick Log screen.
   <img
     src="/images/ios/quick-log-photo.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
 ## New Locomotive Prompt
 
-When you log a locomotive that you haven't seen before, SpotLog will ask if you'd like to add more details about it.
+When you log a locomotive that you haven't seen before, Headcode will ask if you'd like to add more details about it.
 
 <a href="/images/ios/quick-log-new-loco.png" target="_blank">
   <img
     src="/images/ios/quick-log-new-loco.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -62,13 +62,13 @@ Tapping **No** will simply save the spot without adding extra locomotive data.
 
 ## Add More Details
 
-After saving a Quick Spot, SpotLog will ask if you'd like to record more detailed information.
+After saving a Quick Spot, Headcode will ask if you'd like to record more detailed information.
 
 <a href="/images/ios/quick-log-more-details.png" target="_blank">
   <img
     src="/images/ios/quick-log-more-details.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

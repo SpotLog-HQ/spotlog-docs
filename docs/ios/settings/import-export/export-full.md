@@ -10,7 +10,7 @@ next:
 
 # Full Backup
 
-Create a complete backup of your SpotLog data, including all spots, photos, and reference data. This is the best way to protect your data and transfer it to a new device.
+Create a complete backup of your Headcode data, including all spots, photos, and reference data. This is the best way to protect your data and transfer it to a new device.
 
 <!-- Screenshot: The Import/Export screen showing the Full Export option -->
 
@@ -29,7 +29,7 @@ The backup is saved as a `.zip` file that can be used to [restore your data](/io
 
 1. Go to **Settings > Import / Export**
 2. Tap **Full Export**
-3. Wait while SpotLog creates the backup
+3. Wait while Headcode creates the backup
 4. Choose where to save the `.zip` file
 
 <!-- Screenshot: Progress indicator showing the export in progress -->
@@ -47,7 +47,7 @@ For large collections, the export might take a few minutes. Keep the app open du
 
 ::: tip
 Create regular backups to protect your data! We recommend:
-- Exporting before updating SpotLog to a new version
+- Exporting before updating Headcode to a new version
 - Keeping backups in cloud storage (iCloud, Google Drive, etc.)
 - Creating a backup before deleting any data
 :::

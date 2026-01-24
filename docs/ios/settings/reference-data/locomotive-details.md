@@ -16,7 +16,7 @@ Locomotive Details lets you store technical specifications for individual locomo
 
 ## How It Works
 
-When you log a spot for a locomotive you haven't seen before, SpotLog can prompt you to add details about that locomotive. This creates a reference entry that will be shown whenever you view spots for that locomotive.
+When you log a spot for a locomotive you haven't seen before, Headcode can prompt you to add details about that locomotive. This creates a reference entry that will be shown whenever you view spots for that locomotive.
 
 ## Viewing Locomotive Details
 

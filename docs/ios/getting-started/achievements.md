@@ -8,13 +8,13 @@ next: false
 
 # Achievements
 
-SpotLog includes an Achievements and Levels system to help you track your spotting progress. As you log spots, add photos, and record detailed information, you'll earn XP and unlock achievements.
+Headcode includes an Achievements and Levels system to help you track your spotting progress. As you log spots, add photos, and record detailed information, you'll earn XP and unlock achievements.
 
 <a href="/images/ios/awards.png" target="_blank">
   <img
     src="/images/ios/awards.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -30,7 +30,7 @@ At the top of the Achievements screen, you'll see your current level and XP prog
   <img
     src="/images/ios/awards.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -64,7 +64,7 @@ Achievements are goals you can unlock through your spotting activity. Each achie
   <img
     src="/images/ios/awards.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

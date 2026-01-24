@@ -16,7 +16,7 @@ The Calendar screen displays your spots organised by date in a monthly calendar 
   <img
     src="/images/ios/calendar.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -34,7 +34,7 @@ Tap on any date to see the spots you recorded on that day. The spots appear in a
   <img
     src="/images/ios/calendar-selected.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 

@@ -16,7 +16,7 @@ This section allows you to add free-form notes to your spot. Notes are perfect f
   <img
     src="/images/android/notes.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>
 
@@ -43,6 +43,6 @@ When you view a spot's details, notes are displayed in their own card at the bot
   <img
     src="/images/android/notes-displayed.png"
     class="doc-img md"
-    alt="SpotLog – Calendar screen"
+    alt="Headcode – Calendar screen"
   />
 </a>

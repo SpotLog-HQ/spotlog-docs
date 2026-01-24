@@ -75,8 +75,8 @@ const makeSidebar = (base = "") => [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "SpotLog",
-  description: "Knowledge base for SpotLog",
+  title: "Headcode",
+  description: "Knowledge base for Headcode",
   head: [
     [
       "script",
@@ -107,7 +107,7 @@ export default defineConfig({
       "/": makeSidebar("/ios/"),
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/spotlog-hq/spotlog-docs" },
+      { icon: "github", link: "https://github.com/Headcode-hq/Headcode-docs" },
     ],
   },
 });
